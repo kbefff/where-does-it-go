@@ -221,7 +221,6 @@ FROM food
 RIGHT JOIN categories ON food.categoryId = categories.id;
 
 -- ============================ FOOD PACKAGING============================
-
 CREATE TABLE foodPackaging (
   id INTEGER(11) AUTO_INCREMENT NOT NULL,
   categoryId INTEGER(11),
@@ -234,17 +233,22 @@ CREATE TABLE foodPackaging (
 INSERT INTO foodPackaging (foodPackaging_categories, categoryId) 
 VALUES 
 
-("Bread Bags", 6),
-("Compostable Bags", 6),
-("Chip Bags", 6),
-("Food Box Liners", 6),
-("Grocery Bags", 6),
-("Juice Pouches", 6),
-("Microwave Popcorn Bags", 6),
-("Plastic without Recycle Symbol", 6),
-("Pet Food Bags", 6),
-("Produce or Bulk Food Bags", 6),
-("Ziploc Bags", 6)
+("Aluminum Foil or Trays", 6),
+("Bags & Pouches", 6),
+("Bottles & Jugs", 6),
+("Boxes, Cartons & Liners", 6),
+("Butter Wrappers", 6),
+("Compostable Food Service Items", 6),
+("Corks", 6),
+("Coffee Filters", 6),
+("Coffee Pods", 6),
+("Egg Cartons", 6),
+("Hot Cups or Coffee Cups", 6),
+("Lids", 6),
+("Metal Cans & Metal Lids", 6),
+("Paper & Cardboard", 6),
+("Plastic & Styrofoam Containers", 6),
+("Straws", 6)
 
 
 

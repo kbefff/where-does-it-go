@@ -538,5 +538,83 @@ FROM vehiclesAndVehicleRelated
 RIGHT JOIN categories ON vehiclesAndVehicleRelated.categoryId = categories.id;
 
 -- ============================ WOOD ============================
+CREATE TABLE wood (
+  id INTEGER(11) AUTO_INCREMENT NOT NULL,
+  categoryId INTEGER(11),
+  wood_categories VARCHAR(255) NOT NULL,
+  Primary Key (id)
+);
 
+
+INSERT INTO wood (wood_categories, categoryId) 
+VALUES 
+
+("Christmas Trees", 13),
+("Clean Wood Waste", 13),
+("Corks", 13),
+("Fireplace or Briquette Ashes", 13),
+("Painted or Treated Wood", 13),
+("Pallets", 13),
+("Reusable Lumber", 13),
+("Wood Scraps, Shavings, or Sawdust", 13);
+
+
+
+SELECT * from categories;
+SELECT * FROM wood;
+
+SELECT wood_categories, categoryName
+FROM wood
+INNER JOIN categories ON wood.categoryId = categories.id;
+
+
+SELECT wood_categories, categoryName
+FROM wood
+LEFT JOIN categories ON wood.categoryId = categories.id;
+
+SELECT wood_categories, categoryName
+FROM wood
+RIGHT JOIN categories ON wood.categoryId = categories.id;
 -- ============================ YARD WASTE ============================
+CREATE TABLE yardWaste (
+  id INTEGER(11) AUTO_INCREMENT NOT NULL,
+  categoryId INTEGER(11),
+  yardWaste_categories VARCHAR(255) NOT NULL,
+  Primary Key (id)
+);
+
+
+INSERT INTO yardWaste (yardWaste_categories, categoryId) 
+VALUES 
+
+("Christmas Trees", 14),
+("Contaminated Dirt or Soil", 14),
+("Dirt or Soil", 14),
+("Grass Clippings or Sod", 14),
+("House Plants", 14),
+("Leaves or Non-Woody Yard Waste", 14),
+("Pet Waste or Litter", 14),
+("Plant or Tree Salvage", 14),
+("Plant Pots", 14),
+("Rocks or Gravel", 14),
+("Trees or Brush", 14),
+("Wood Scraps, Shavings, or Sawdust", 14),
+("Noxious Weeds", 14);
+
+
+
+SELECT * from categories;
+SELECT * FROM yardWaste;
+
+SELECT yardWaste_categories, categoryName
+FROM yardWaste
+INNER JOIN categories ON yardWaste.categoryId = categories.id;
+
+
+SELECT yardWaste_categories, categoryName
+FROM yardWaste
+LEFT JOIN categories ON yardWaste.categoryId = categories.id;
+
+SELECT yardWaste_categories, categoryName
+FROM yardWaste
+RIGHT JOIN categories ON yardWaste.categoryId = categories.id;

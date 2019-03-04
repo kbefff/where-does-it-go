@@ -201,7 +201,7 @@ VALUES
 ("Fats, Oils, or Grease", 5),
 ("Food Scraps", 5),
 ("Pet Food", 5),
-("Vitamins", 5)
+("Vitamins", 5);
 
 
 SELECT * from categories;
@@ -248,7 +248,7 @@ VALUES
 ("Metal Cans & Metal Lids", 6),
 ("Paper & Cardboard", 6),
 ("Plastic & Styrofoam Containers", 6),
-("Straws", 6)
+("Straws", 6);
 
 
 

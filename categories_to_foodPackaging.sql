@@ -28,8 +28,6 @@ VALUES
 ("Straws", 6)
 
 
-
-
 SELECT * from categories;
 SELECT * FROM foodPackaging;
 

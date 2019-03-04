@@ -278,7 +278,10 @@ CREATE TABLE glassAndCeramics (
 
 
 INSERT INTO glassAndCeramics (glassAndCeramics_categories, categoryId) 
-VALUES ("Auto Glass", 7),
+VALUES 
+
+("Glass & Ceramics", 7),
+("Auto Glass", 7),
 ("Broken Glass", 7),
 ("Drinking Glasses", 7),
 ("Eyeglasses", 7),
@@ -289,6 +292,7 @@ VALUES ("Auto Glass", 7),
 ("Incandescent Light Bulbs", 7),
 ("LED Light Bulbs", 7),
 ("Mercury Thermometers", 7),
+("Mirrors", 7),
 ("Mugs, Plates, or Bowls", 7),
 ("Window or Picture Glass", 7);
 
@@ -297,14 +301,15 @@ VALUES ("Auto Glass", 7),
 SELECT * from categories;
 SELECT * FROM glassAndCeramics;
 
-SELECT glassAndCeramics, categoryName
+SELECT glassAndCeramics_categories, categoryName
 FROM glassAndCeramics
 INNER JOIN categories ON glassAndCeramics.categoryId = categories.id;
 
-SELECT glassAndCeramics, categoryName
+
+SELECT glassAndCeramics_categories, categoryName
 FROM glassAndCeramics
 LEFT JOIN categories ON glassAndCeramics.categoryId = categories.id;
 
-SELECT glassAndCeramics, categoryName
+SELECT glassAndCeramics_categories, categoryName
 FROM glassAndCeramics
 RIGHT JOIN categories ON glassAndCeramics.categoryId = categories.id;

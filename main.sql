@@ -412,3 +412,131 @@ LEFT JOIN categories ON metalAndMetalItems.categoryId = categories.id;
 SELECT metalAndMetalItems_categories, categoryName
 FROM metalAndMetalItems
 RIGHT JOIN categories ON metalAndMetalItems.categoryId = categories.id;
+
+
+-- ============================ PAPER ============================
+CREATE TABLE paper (
+  id INTEGER(11) AUTO_INCREMENT NOT NULL,
+  categoryId INTEGER(11),
+  paper_categories VARCHAR(255) NOT NULL,
+  Primary Key (id)
+);
+
+
+INSERT INTO paper (paper_categories, categoryId) 
+VALUES 
+
+("Cardboard", 10),
+("Containers / Boxes / Cartons", 10),
+("Food-soiled Paper", 10),
+("Misc. Paper", 10),
+("Paper, Printed / Reading", 10);
+
+
+SELECT * from categories;
+SELECT * FROM paper;
+
+SELECT paper_categories, categoryName
+FROM paper
+INNER JOIN categories ON paper.categoryId = categories.id;
+
+
+SELECT paper_categories, categoryName
+FROM paper
+LEFT JOIN categories ON paper.categoryId = categories.id;
+
+SELECT paper_categories, categoryName
+FROM paper
+RIGHT JOIN categories ON paper.categoryId = categories.id;
+
+-- ============================ PLASTIC ============================
+CREATE TABLE plastic (
+  id INTEGER(11) AUTO_INCREMENT NOT NULL,
+  categoryId INTEGER(11),
+  plastic_categories VARCHAR(255) NOT NULL,
+  Primary Key (id)
+);
+
+
+INSERT INTO plastic (plastic_categories, categoryId) 
+VALUES 
+
+("Bags", 11),
+("Recycle Numbers 1-7", 11),
+("Food & Beverage Containers", 11),
+("Mail Packaging", 11),
+("Misc. Plastic", 11),
+("Non-Food Containers", 11),
+("Straws", 11),
+("Styrofoam", 11);
+
+SELECT * from categories;
+SELECT * FROM plastic;
+
+SELECT plastic_categories, categoryName
+FROM plastic
+INNER JOIN categories ON plastic.categoryId = categories.id;
+
+
+SELECT plastic_categories, categoryName
+FROM plastic
+LEFT JOIN categories ON plastic.categoryId = categories.id;
+
+SELECT plastic_categories, categoryName
+FROM plastic
+RIGHT JOIN categories ON plastic.categoryId = categories.id;
+
+-- ============================ VEHICLES AND VEHICLE RELATED ============================
+
+CREATE TABLE vehiclesAndVehicleRelated (
+  id INTEGER(11) AUTO_INCREMENT NOT NULL,
+  categoryId INTEGER(11),
+  vehiclesAndVehicleRelated_categories VARCHAR(255) NOT NULL,
+  Primary Key (id)
+);
+
+
+INSERT INTO vehiclesAndVehicleRelated (vehiclesAndVehicleRelated_categories, categoryId) 
+VALUES 
+
+("Antifreeze", 12),
+("Auto Glass", 12),
+("Bicycles or Bike Parts", 12),
+("Brake or Transmission Fluid", 12),
+("Car Batteries", 12),
+("Child Car Seats", 12),
+("Engines, Motors or Car Parts", 12),
+("Flares", 12),
+("Gas Cans", 12),
+("Gasoline", 12),
+("Lawn Mowers or Power Equipment", 12),
+("License Plates", 12),
+("Motor Oil", 12),
+("Motor Oil Containers", 12),
+("Motor Oil Filters", 12),
+("Other Vehicle Fluids", 12),
+("Tires", 12),
+("Vehicles", 12),
+("Starters, Carburetors, Etc.", 12);
+
+
+
+SELECT * from categories;
+SELECT * FROM vehiclesAndVehicleRelated;
+
+SELECT vehiclesAndVehicleRelated_categories, categoryName
+FROM vehiclesAndVehicleRelated
+INNER JOIN categories ON vehiclesAndVehicleRelated.categoryId = categories.id;
+
+
+SELECT vehiclesAndVehicleRelated_categories, categoryName
+FROM vehiclesAndVehicleRelated
+LEFT JOIN categories ON vehiclesAndVehicleRelated.categoryId = categories.id;
+
+SELECT vehiclesAndVehicleRelated_categories, categoryName
+FROM vehiclesAndVehicleRelated
+RIGHT JOIN categories ON vehiclesAndVehicleRelated.categoryId = categories.id;
+
+-- ============================ WOOD ============================
+
+-- ============================ YARD WASTE ============================

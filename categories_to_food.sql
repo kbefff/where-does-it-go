@@ -14,7 +14,7 @@ VALUES
 ("Fats, Oils, or Grease", 5),
 ("Food Scraps", 5),
 ("Pet Food", 5),
-("Vitamins", 5)
+("Vitamins", 5);
 
 
 SELECT * from categories;

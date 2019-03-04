@@ -6,7 +6,6 @@ CREATE TABLE foodPackaging (
 );
 
 
-
 INSERT INTO foodPackaging (foodPackaging_categories, categoryId) 
 VALUES 
 
@@ -25,7 +24,7 @@ VALUES
 ("Metal Cans & Metal Lids", 6),
 ("Paper & Cardboard", 6),
 ("Plastic & Styrofoam Containers", 6),
-("Straws", 6)
+("Straws", 6);
 
 
 SELECT * from categories;

@@ -1,7 +1,7 @@
 CREATE TABLE fabric (
   id INTEGER(11) AUTO_INCREMENT NOT NULL,
   categoryId INTEGER(11),
-  fabric_categories VARCHAR(455) NOT NULL,
+  fabric_categories VARCHAR(255) NOT NULL,
   Primary Key (id)
 );
 

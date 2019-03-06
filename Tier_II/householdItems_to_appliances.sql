@@ -80,3 +80,5 @@ VALUES ('Air Conditioners or Heat Pumps'),
 ('Water Heaters');
 
 SELECT * FROM appliances;
+
+WHERE 

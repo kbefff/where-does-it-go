@@ -1,0 +1,323 @@
+﻿categoryID,subcategoryId,subCategory
+1,1,Appliances
+1,2,Batteries
+1,3,Bathroom & Laundry
+1,4,Bedroom
+1,5,Garage & Outdoor
+1,6,Kitchen
+1,7,Lights & Bulbs
+1,8,Misc Household
+2,1,Exterior
+2,2,Floors & Ceiling
+2,3,Furnaces & Fixtures
+2,4,Salvaged Materials
+2,5,"Soil, Rock, Brick, & Concrete"
+2,6,Windows & Walls
+2,7,Wood Wastes
+3,1,Batteries
+3,2,"CDs, DVDs, or Floppies"
+3,3,Cell Phones
+3,4,Clock Radios
+3,5,Computers or Laptops
+3,6,Computer Monitors
+3,7,Copiers or Fax Machines
+3,8,E-readers 
+3,9,E-waste
+3,10,Landline Telephones
+3,11,Other Electronic Devices
+3,12,Toner or Printer Cartridges
+3,13,Printers or Peripherals
+3,14,Stereo or Audio Equipment
+3,15,Televisions
+3,16,VCRs
+4,1,Bedding or Linens
+4,2,Carpet or Padding
+4,3,Clothes or Shoes
+4,4,Dryer Sheets
+4,6,Fabric or Textiles
+4,7,Reusable Shopping Bags
+5,1,Cooking Oil
+5,2,"Fats, Oils, or Grease"
+5,3,Food Scraps
+5,4,Pet Food
+5,5,Vitamins
+6,1,Aluminum Foil or Trays
+6,2,Bags & Pouches
+6,3,Bottles & Jugs
+6,4,"Boxes, Cartons & Liners"
+6,5,Butter Wrappers
+6,6,Compostable Food Service Items
+6,7,Corks
+6,8,Coffee Filters 
+6,9,Coffee Pods
+6,10,Egg Cartons
+6,11,Glass Bottles or Jars
+6,12,Hot Cups or Coffee Cups
+6,13,Lids
+6,14,Metal Cans & Metal Lids
+6,15,Paper & Cardboard
+6,16,Plastic & Styrofoam Containers
+6,17,Straws
+7,1,Auto Glass
+7,2,Broken Glass
+7,3,Drinking Glasses
+7,4,Eyeglasses
+7,5,Glass Bottles or Jars
+7,1,Glass or Ceramic Household Items
+7,2,Fluorescent Light Bulbs
+7,3,Halogen or Xenon Light Bulbs
+7,4,Incandescent Light Bulbs
+7,5,LED Light Bulbs
+7,6,Mercury Thermometers
+7,7,Mirrors
+7,8,"Mugs, Plates, or Bowls"
+7,9,Window or Picture Glass
+8,1,Aerosol Cans
+8,2,Ammunition or Guns
+8,3,Asbestos
+8,4,Batteries
+8,5,Compressed Gas Containers
+8,6,Contaminated Dirt or Soil
+8,7,Fiberglass
+8,8,Fireworks
+8,9,Fluorescent Light Bulbs
+8,10,Liquids & Household Supplies
+8,11,Medicines
+8,12,Motor Oil Containers
+8,13,Needles or Syringes
+8,14,Oil Filters
+8,15,Oil Tanks
+8,16,Pesticides
+8,17,Toner or Printer Cartridges
+8,18,Smoke Detectors
+8,19,Thermometers or Mercury Items
+9,1,Appliances
+9,2,Barrels or Drums
+9,3,Batteries
+9,4,Bicycles or Bike Parts
+9,5,Cans
+9,6,Compressed Gas Containers
+9,7,From the Kitchen
+9,8,Hand Tools
+9,9,Jewelry or Coins
+9,10,Lawn Mowers or Power Equipment
+9,11,License Plates
+9,12,Metals by Type
+9,13,Small Metal Items
+9,14,Window Blinds
+9,15,Wire Clothes Hangers
+9,16,Wire or Cable
+10,1,Cardboard
+10,2,Containers / Boxes / Cartons
+10,3,Food-soiled Paper
+10,4,Misc. Paper
+10,5,"Paper, Printed / Reading"
+11,1,Bags
+11,2,Recycle Numbers 1-7
+11,3,Food & Beverage Containers
+11,4,Mail Packaging
+11,5,Misc. Plastic
+11,6,Non-Food Containers
+11,7,Straws
+11,8,Styrofoam
+12,1,Antifreeze
+12,2,Auto Glass
+12,3,Bicycles or Bike Parts
+12,4,Brake or Transmission Fluid
+12,5,Car Batteries
+12,6,Child Car Seats
+12,7,"Engines, Motors or Car Parts"
+12,8,Flares
+12,9,Gas Cans
+12,10,Gasoline
+12,11,Lawn Mowers or Power Equipment
+12,12,License Plates
+12,13,Motor Oil
+12,14,Motor Oil Containers
+12,15,Motor Oil Filters
+12,16,Other Vehicle Fluids
+12,17,Tires
+12,18,Vehicles
+12,19,"Starters, Carburetors, Etc."
+13,1,Christmas Trees
+13,2,Clean Wood Waste
+13,3,Corks
+13,4,Fireplace or Briquette Ashes
+13,5,Painted or Treated Wood
+13,6,Pallets
+13,7,Reusable Lumber
+13,8,"Wood Scraps, Shavings, or Sawdust"
+14,1,Christmas Trees
+14,2,Contaminated Dirt or Soil
+14,3,Dirt or Soil
+14,4,Grass Clippings or Sod
+14,5,House Plants
+14,6,Leaves or Non-Woody Yard Waste
+14,7,Pet Waste or Litter
+14,8,Plant or Tree Salvage
+14,9,Plant Pots
+14,10,Rocks or Gravel
+14,11,Trees or Brush
+14,12,"Wood Scraps, Shavings, or Sawdust"
+14,13,Noxious Weeds
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

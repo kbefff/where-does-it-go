@@ -27,7 +27,8 @@ INSERT INTO category(categoryId,category) VALUES (1,'Household Items'),
 CREATE TABLE subCategory(
    categoryId    INTEGER,
    subcategoryId INTEGER,
-   subCategory   VARCHAR(33)
+   subCategory   VARCHAR(33),
+   PRIMARY KEY (categoryId, subcategoryId)
 );
 
 INSERT INTO subCategory(categoryId,subcategoryId,subCategory) VALUES (1,1,'Appliances'),
@@ -94,15 +95,15 @@ INSERT INTO subCategory(categoryId,subcategoryId,subCategory) VALUES (1,1,'Appli
 (7,3,'Drinking Glasses'),
 (7,4,'Eyeglasses'),
 (7,5,'Glass Bottles or Jars'),
-(7,1,'Glass or Ceramic Household Items'),
-(7,2,'Fluorescent Light Bulbs'),
-(7,3,'Halogen or Xenon Light Bulbs'),
-(7,4,'Incandescent Light Bulbs'),
-(7,5,'LED Light Bulbs'),
-(7,6,'Mercury Thermometers'),
-(7,7,'Mirrors'),
-(7,8,'Mugs, Plates, or Bowls'),
-(7,9,'Window or Picture Glass'),
+(7,6,'Glass or Ceramic Household Items'),
+(7,7,'Fluorescent Light Bulbs'),
+(7,8,'Halogen or Xenon Light Bulbs'),
+(7,9,'Incandescent Light Bulbs'),
+(7,10,'LED Light Bulbs'),
+(7,11,'Mercury Thermometers'),
+(7,12,'Mirrors'),
+(7,13,'Mugs, Plates, or Bowls'),
+(7,14,'Window or Picture Glass'),
 (8,1,'Aerosol Cans'),
 (8,2,'Ammunition or Guns'),
 (8,3,'Asbestos'),
@@ -218,7 +219,8 @@ CREATE TABLE itemDetail(
    pickup                    VARCHAR(110),
    hazardous                 VARCHAR(816),
    nextToBin                 VARCHAR(642),
-   recycleNextToBinNoCharge  VARCHAR(409)
+   recycleNextToBinNoCharge  VARCHAR(409),
+   PRIMARY KEY (categoryId, subcategoryId, itemId)
 );
 
 INSERT INTO itemDetail(categoryId,subcategoryId,itemId,item,donateAndReuse,curbSidePickup,transferStation,inGarbage,reuse,dropOffLocations,hazWasteFacility,hazNoCharge,donate,warning,caution,inRecycling,didYouKnow,inFoodAndYardWaste,inRecyclingRinseFirst,nextToBinNoCharge,corporateTakeBackPrograms,pickup,hazardous,nextToBin,recycleNextToBinNoCharge) VALUES (1,1,1,'Air Conditioners or Heat Pumps','Donate air conditioners or heat pumps in good condition to local thrift stores. Call first to determine acceptance policies.

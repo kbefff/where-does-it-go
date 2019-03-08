@@ -1593,3 +1593,16 @@ Pet waste can’t be composted in the food and yard waste or in backyard compost
 •Bundles must be 2 feet or less in diameter.',NULL),
 (14,12,1,'Wood Scraps, Shavings, or Sawdust',NULL,NULL,NULL,'Painted or treated wood shavings, scraps, and sawdust go in the garbage. Put sawdust and shavings in a bag and tie off.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean, untreated wood shavings, scraps, and sawdust go in the food and yard waste. Put sawdust or shavings in a closed paper bag or box to contain it.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,13,1,'Noxious Weeds',NULL,NULL,NULL,'Noxious weeds should be bagged, tied off, and placed in the garbage. For more information about noxious weeds, visit Noxious Weeds in King County, Washington.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+
+-- CATEGORY AND SUBCATEGORY CONNECTION
+-- left joing because all results have a category
+-- left join means only display subcategories that have a matching catgeory id
+SELECT * FROM category
+LEFT JOIN subCategory
+on category.categoryId = subCategory.categoryId;
+
+-- SUBCATEGORY AND ITEM CONNECTION
+
+SELECT * from subCategory
+LEFT JOIN itemDetail
+on subCategory.categoryId + subCategory.subCategoryId = itemDetail.categoryId + subCategory.subCategoryId;

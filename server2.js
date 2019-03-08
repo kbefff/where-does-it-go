@@ -82,17 +82,19 @@ app.get('/starwars', function (req, res) {
 });
 
 
-app.get('/api/category', function (req, res) {
+app.get('/category', function (req, res) {
     // communicate with db
     connection.query('SELECT * FROM category', function (err, res) {
-    //     var html = "<h1>Categories by Name</h1>";
-    //     html += "<ul>";
-    //     for (var i = 0; i < res.length; i++) {
-    //         html += "<li><p> ID: " + res[i].categoryId + "</p>";
-    //         html += "<p> Category: " + res[i].category + "</p>";
-    //     }
-    //     html += "</ul>";
-        res.send("html");
+        if (err) throw err;
+        res.json({id: res.categoryId})
+        //     var html = "<h1>Categories by Name</h1>";
+        //     html += "<ul>";
+        //     for (var i = 0; i < res.length; i++) {
+        //         html += "<li><p> ID: " + res[i].categoryId + "</p>";
+        //         html += "<p> Category: " + res[i].category + "</p>";
+        //     }
+        //     html += "</ul>";
+        // res.send("html");
     });
 });
 

@@ -70,19 +70,6 @@ app.get('/home', function (req, res) {
     res.send('welcome to my home page');
 });
 
-// when you go to /api/characters
-app.get('/api/characters', function (req, res) {
-    // you are requesting everything from characters
-    // we are sending back json object
-    res.json(characters);
-});
-
-app.get('/starwars', function (req, res) {
-    res.sendFile(path.join(__dirname, 'index.html'));
-});
-
-
-
 
 app.get('/category', function (req, res) {
     // communicate with db
@@ -105,6 +92,9 @@ app.get('/category', function (req, res) {
 app.get('/:category/:subCategory/:itemDetail', function (req, res) {
     // user category input
     var category = req.params.category;
+    var subCategory = req.params.subCategory;
+    var itemDetail = req.params.itemDetail;
+
     connection.query('SELECT * FROM category WHERE category =?', [category], function(err, results){
         if (err) throw err;
 

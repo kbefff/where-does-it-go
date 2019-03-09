@@ -9,8 +9,6 @@ var port = 3000;
 require('console.table');
 var mysql = require('mysql');
 
-
-
 // create connection to DB
 var connection = mysql.createConnection({
     // create connection to my computer
@@ -70,7 +68,6 @@ app.get('/home', function (req, res) {
     res.send('welcome to my home page');
 });
 
-
 app.get('/category', function (req, res) {
     // communicate with db
     connection.query('SELECT * FROM category', function (err, results) {
@@ -88,7 +85,6 @@ app.get('/category', function (req, res) {
     });
 });
 
-
 app.get('/:category/:subCategory/:itemDetail', function (req, res) {
     // user category input
     var category = req.params.category;
@@ -100,11 +96,8 @@ app.get('/:category/:subCategory/:itemDetail', function (req, res) {
 
         console.log(results);
         res.json(results);
-    }) 
-
-
-
-})
+    });
+});
 
 
 

@@ -37,30 +37,6 @@ function readData() {
     });
 };
 
-
-var characters = [{
-        routeName: "yoda",
-        name: "Yoda",
-        role: "Jedi Master",
-        age: 900,
-        forcePoints: 2000
-    },
-    {
-        routeName: "darthmaul",
-        name: "Darth Maul",
-        role: "Sith Lord",
-        age: 200,
-        forcePoints: 1200
-    },
-    {
-        routeName: "obiwankenobi",
-        name: "Obi Wan Kenobi",
-        role: "Jedi Master",
-        age: 55,
-        forcePoints: 1350
-    }
-];
-
 // routes
 // req is '/home'
 app.get('/home', function (req, res) {
@@ -91,23 +67,13 @@ app.get('/:category/:subCategory/:itemDetail', function (req, res) {
     var subCategory = req.params.subCategory;
     var itemDetail = req.params.itemDetail;
 
-    connection.query('SELECT * FROM category WHERE category =?', [category], function(err, results){
+    connection.query('SELECT * FROM category WHERE category =?', [category], function (err, results) {
         if (err) throw err;
 
         console.log(results);
         res.json(results);
     });
 });
-
-
-
-
-
-
-
-
-
-
 
 // listen in for incoming requests from port 3000
 // then let me knwo server is running

@@ -1,4 +1,11 @@
-// show RawDataPacket object as table
+// create server to handle request from client to backend and delvier response
+var express = require('express');
+// internal module (no need to isntall) when we hit a route it allows us to send a response of the file
+var path = require('path');
+// express executed
+var app = express();
+// port where client and server communicate
+var port = 3000;
 require('console.table');
 var mysql = require('mysql');
 
@@ -18,75 +25,58 @@ connection.connect(function (err) {
     if (err) throw err;
     // unique id associated with connection to db
     console.log('we are connected as id: ' + connection.threadId);
-    createHouseholdItems();
-    readHouseholdItems();
-    // never delete from DB
-    // deleteHouseholdItems();
-    updateHouseholdItems();
+    readData();
 });
 
 function readData() {
     // use sql commands in javascript to read data
-    connection.query('SELECT * FROM categories', function (err, res) {
+    connection.query('SELECT * FROM category', function (err, res) {
         if (err) throw err;
         // show RawDataPacket object as table
         console.table(res);
     });
 };
 
-function readHouseholdItems() {
-    // use sql commands in javascript to read data
-    connection.query('SELECT * FROM householdItems', function (err, res) {
+// routes
+// req is '/home'
+app.get('/home', function (req, res) {
+    // when you hit the rout you will see a res with a string that says 'welcome to my home page'
+    res.send('welcome to my home page');
+});
+
+app.get('/category', function (req, res) {
+    // communicate with db
+    connection.query('SELECT * FROM category', function (err, results) {
         if (err) throw err;
-        // show RawDataPacket object as table
-        console.table(res);
+        console.log(results);
+        // res.json({id: results.categoryId})
+        var html = "<h1>Categories by Name</h1>";
+        html += "<ul>";
+        for (var i = 0; i < results.length; i++) {
+            html += "<li><p> ID: " + results[i].categoryId + "</p>";
+            html += "<p> Category: " + results[i].category + "</p>";
+        }
+        html += "</ul>";
+        res.send(html);
     });
-};
+});
 
-function createHouseholdItems() {
-    console.log('inserting a new item...');
-    var query = connection.query(
-        // insert into household items and set into the following properties
-        'INSERT INTO householdItems SET ?', {
-            householdItems_categories: 'Entertainment Room'
-        },
-        function (err, res) {
-            if (err) throw err;
-            console.log(res.affectedRows);
-        }
-    )
-}
+app.get('/:category/:subCategory/:itemDetail', function (req, res) {
+    // user category input
+    var category = req.params.category;
+    var subCategory = req.params.subCategory;
+    var itemDetail = req.params.itemDetail;
 
-function deleteHouseholdItems() {
-    console.log('deleting item(s)');
-    connection.query(
-        'DELETE FROM householdItems WHERE ?', {
-            id: 10
-        },
-        function (err, res) {
-            if (err) throw err;
-            console.log(res.affectedRows);
-        }
-    )
-}
+    connection.query('SELECT * FROM category WHERE category =?', [category], function (err, results) {
+        if (err) throw err;
 
-function updateHouseholdItems() {
-    console.log('updating item(s)');
-    var query = connection.query(
-        // update hosueholdItems where id
-        'UPDATE householdItems SET ? WHERE ?',
-        [
-            {
-                id: 16
-            },
-            {
-                householdItems_categories: 'War Room'
-            }
-        ],
-        function (err, res) {
-            if (err) throw err;
-            console.log(res.affectedRows);
-            deleteHouseholdItems();
-        }
-    )
-}
+        console.log(results);
+        res.json(results);
+    });
+});
+
+// listen in for incoming requests from port 3000
+// then let me knwo server is running
+app.listen(port, function () {
+    console.log('our server is listenign in for incoming requests on port ' + port);
+});

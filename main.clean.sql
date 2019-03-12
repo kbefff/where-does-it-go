@@ -761,10 +761,10 @@ Small plastic caps if screwed onto an empty plastic bottle',NULL,NULL,NULL,NULL,
 (6,14,1,'Aerosol Cans',NULL,NULL,NULL,'Empty aerosol cans
 Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,14,2,'Beverage Cans',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Using recycled aluminum to make things takes 98% less energy than using new material.',NULL,'Empty soda and beverage cans go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
-(6,14,3,'Bottle Caps or Jar Lids',NULL,NULL,NULL,'•Loose lids less than 3-inches in diameter
-•Loose plastic bottle caps
-•Metal beer and soda caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Small plastic bottle caps if screwed onto an empty plastic bottle
-•Loose plastic and metal lids 3-inches in diameter or larger',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(6,14,3,'Bottle Caps or Jar Lids',NULL,NULL,NULL,'• Loose lids less than 3-inches in diameter
+• Loose plastic bottle caps
+• Metal beer and soda caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Small plastic bottle caps if screwed onto an empty plastic bottle
+• Loose plastic and metal lids 3-inches in diameter or larger',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,14,4,'Steel or Tin Cans and Lids',NULL,NULL,NULL,'Loose can lids (not attached or pushed into the can) go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Keep can lids partially attached or push the lid into the can. You don’t need to remove the can label.',NULL,NULL,NULL,NULL,NULL,NULL),
 (6,15,1,'Cardboard Boxes',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Cardboard and flattened cardboard boxes go in the recycling.',NULL,'Cardboard with grease or oil stains (like pizza boxes) go in the food and yard waste bin.
 
@@ -772,46 +772,46 @@ Put cardboard that is mostly wet in the food and yard waste bin.',NULL,'Cardboar
 
 There is no charge for extra recycling.',NULL,NULL,NULL,NULL,NULL),
 (6,15,2,'Paper Berry Baskets',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Paper berry baskets go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(6,15,3,'Paper Egg Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Clean paper egg cartons','Many egg sellers at farmers'' markets will take back clean egg cartons to reuse them.','•Paper egg cartons with food residue on them',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(6,15,4,'Paper Plates or Cups',NULL,NULL,NULL,'•Dirty plates and cups with a shiny coating
-•Styrofoam plates and cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Paper cups with a small amount of liquid
-•Clean paper plates','The shiny coating on paper plates and cups is usually plastic. Scrape the coating with your fingernail or a knife. If wax collects under your fingernail, the coating is wax. Wax-coated cups and plates can go in your food waste bin.','•Paper plates or cups labeled as “Compostable”
-•Uncoated (not shiny) paper plates (such as Chinet brand)',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(6,15,3,'Paper Egg Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Clean paper egg cartons','Many egg sellers at farmers'' markets will take back clean egg cartons to reuse them.','• Paper egg cartons with food residue on them',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(6,15,4,'Paper Plates or Cups',NULL,NULL,NULL,'• Dirty plates and cups with a shiny coating
+• Styrofoam plates and cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Paper cups with a small amount of liquid
+• Clean paper plates','The shiny coating on paper plates and cups is usually plastic. Scrape the coating with your fingernail or a knife. If wax collects under your fingernail, the coating is wax. Wax-coated cups and plates can go in your food waste bin.','• Paper plates or cups labeled as “Compostable”
+• Uncoated (not shiny) paper plates (such as Chinet brand)',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,15,5,'Pizza Boxes',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Pizza boxes that are clean go in the recycling.',NULL,'Greasy or food-soiled pizza boxes go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,15,6,'Soiled or Greasy Cardboard',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Cardboard with food grease or oil stains (like pizza boxes) go in the food and yard waste.
 
 Put cardboard that is mostly wet in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(6,15,7,'Take-Out Containers',NULL,NULL,NULL,'•Styrofoam containers
-•Dirty plastic-coated (shiny) paper containers
-•Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Dirty or clean uncoated (not shiny) paper take-out containers
-•Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
-•Greasy pizza boxes
+(6,15,7,'Take-Out Containers',NULL,NULL,NULL,'• Styrofoam containers
+• Dirty plastic-coated (shiny) paper containers
+• Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Dirty or clean uncoated (not shiny) paper take-out containers
+• Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
+• Greasy pizza boxes
 
-Learn more about compostable packaging (pdf).','•Empty and rinsed plastic clamshell containers
-•Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
+Learn more about compostable packaging (pdf).','• Empty and rinsed plastic clamshell containers
+• Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
 (6,15,8,'Waxed Cardboard',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Flattened waxed cardboard boxes, such as large produce boxes, go in the food and yard waste.
 
 Paperboard boxes (like butter and cereal boxes) go in the recycling. They aren’t true waxed cardboard. The shiny coating on these boxes is a thin layer of plastic.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,15,9,'Waxed Paper',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Waxed paper goes in the food and yard waste. It can’t be recycled.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(6,16,1,'Clamshell Containers',NULL,NULL,NULL,'•Styrofoam clamshell containers
-•Dirty plastic or plastic-coated (shiny) clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Clamshell containers marked “Compostable” or “#7 PLA”
-•Dirty paper clamshell containers without a plastic coating','•Plastic clamshell containers
-•Plastic-coated (shiny) clamshell containers
-•Clean paper clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL),
+(6,16,1,'Clamshell Containers',NULL,NULL,NULL,'• Styrofoam clamshell containers
+• Dirty plastic or plastic-coated (shiny) clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Clamshell containers marked “Compostable” or “#7 PLA”
+• Dirty paper clamshell containers without a plastic coating','• Plastic clamshell containers
+• Plastic-coated (shiny) clamshell containers
+• Clean paper clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,2,'Deli, Coffee, or Soft Drink Lids',NULL,NULL,NULL,'Lids less than 3-inches in diameter go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Lids 3-inches in diameter or larger go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,3,'Foam Egg Cartons',NULL,NULL,NULL,'Foam egg cartons go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Many egg sellers at farmers markets will take back clean egg cartons to reuse them.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,4,'Meat or Food Trays',NULL,NULL,NULL,'Styrofoam meat trays and the plastic absorbent insert go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Brown or beige trays for meat, poultry, and fish are made from plant-based material and are compostable.','Brown or beige trays for meat, poultry, and fish go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,5,'Peanut Butter or Mayonnaise Jars',NULL,NULL,NULL,'Jars coated with oily film that cannot be cleaned off should to go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean jars coated with oily food like peanut butter or mayonnaise with a little bit of water and a brush. Then rinse jar clean',NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,6,'Plastic Berry Baskets',NULL,NULL,NULL,'Plastic berry baskets go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,7,'Plastic Berry Trays',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Plastic berry trays larger than 3-inches on any side go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
-(6,16,8,'Plastic Cups or Utensils',NULL,NULL,NULL,'•Dirty plastic cups
-•Plastic utensils
-•Styrofoam cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Empty and clean plastic cups',NULL,'Plastic-like containers labeled “Compostable” or “#7 PLA” go in the food and yard waste.
+(6,16,8,'Plastic Cups or Utensils',NULL,NULL,NULL,'• Dirty plastic cups
+• Plastic utensils
+• Styrofoam cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Empty and clean plastic cups',NULL,'Plastic-like containers labeled “Compostable” or “#7 PLA” go in the food and yard waste.
 
 Learn more about compostable packaging (pdf).',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(6,16,9,'Plastic Food Tubs',NULL,NULL,NULL,'•Containers with food inside
-•Lids less than 3-inches across',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Plastic food containers for yogurt, margarine, dips, salsa, etc.
-•Plastic lids 3-inches across or larger',NULL,NULL,NULL,NULL,NULL,NULL),
+(6,16,9,'Plastic Food Tubs',NULL,NULL,NULL,'• Containers with food inside
+• Lids less than 3-inches across',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Plastic food containers for yogurt, margarine, dips, salsa, etc.
+• Plastic lids 3-inches across or larger',NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,10,'Plastic without Recycle Symbol',NULL,NULL,NULL,'Loose lids less than 3-inches in diameter
 Loose plastic bottle caps
 Dirty plastic cups
@@ -841,26 +841,26 @@ Rigid plastic sporting equipment – 3-feet or less on all sides
 Rigid plastic furniture – 3-feet or less on all sides
 Storage containers
 Buckets with no fabric, foam, or wood attached',NULL,NULL,NULL,NULL,NULL,NULL),
-(6,16,11,'Take-Out Containers',NULL,NULL,NULL,'•Styrofoam containers
-•Dirty plastic-coated (shiny) paper containers
-•Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Dirty or clean uncoated (not shiny) paper take-out containers
-•Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
-•Greasy pizza boxes
+(6,16,11,'Take-Out Containers',NULL,NULL,NULL,'• Styrofoam containers
+• Dirty plastic-coated (shiny) paper containers
+• Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Dirty or clean uncoated (not shiny) paper take-out containers
+• Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
+• Greasy pizza boxes
 
-Learn more about compostable packaging (pdf).','•Empty and rinsed plastic clamshell containers
-•Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
+Learn more about compostable packaging (pdf).','• Empty and rinsed plastic clamshell containers
+• Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
 (6,16,12,'Tupperware',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (6,17,1,'Straws',NULL,NULL,NULL,'Plastic straws and straws that you are unable to verify that they are approved compostable go into the garbage. Plastic straws are not recyclable.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Straws that are labeled “Compostable” can be made from paper or from a plant based material and may have similar characteristics and appearance as plastic. Compostable straws go into your food and yard waste.','Only straws that are labeled “Compostable” go into your food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (7,1,1,'Auto Glass',NULL,NULL,NULL,'Broken auto glass can go in the garbage:
-•Glass must fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,'Bring auto glass to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(7,2,1,'Broken Glass',NULL,NULL,NULL,'•All pieces of broken drinking glasses or wine glasses.
-•Pieces of broken bottles and jars smaller than 3-inches.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Broken bottles and jars 3-inches or larger.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Glass must fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,'Bring auto glass to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(7,2,1,'Broken Glass',NULL,NULL,NULL,'• All pieces of broken drinking glasses or wine glasses.
+• Pieces of broken bottles and jars smaller than 3-inches.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Broken bottles and jars 3-inches or larger.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (7,3,1,'Drinking Glasses',NULL,NULL,NULL,'Drinking glasses can go in the garbage, whether they’re broken or not.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Drinking glasses can’t be recycled by Seattle because they have different melting points than recyclable glass.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (7,4,1,'Eyeglasses',NULL,NULL,NULL,'Eyeglasses can go in the garbage.',NULL,'You can donate eyeglasses to The Lions Club or organizations affiliated with OneSight.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(7,5,1,'Glass Bottles or Jars',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Jars coated with oily food like peanut butter can be wiped first with a paper towel (put the paper towel in the food and yard waste). Very small amounts of peanut butter or food residue are okay.',NULL,'•Glass bottles and jars
-•Lids 3-inches or larger
-•Lids smaller than 3-inches can be recycled only if attached to the bottle or jar.',NULL,NULL,NULL,NULL,NULL,NULL),
+(7,5,1,'Glass Bottles or Jars',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Jars coated with oily food like peanut butter can be wiped first with a paper towel (put the paper towel in the food and yard waste). Very small amounts of peanut butter or food residue are okay.',NULL,'• Glass bottles and jars
+• Lids 3-inches or larger
+• Lids smaller than 3-inches can be recycled only if attached to the bottle or jar.',NULL,NULL,NULL,NULL,NULL,NULL),
 (7,6,1,'Glass or Ceramic Household Items','Donate glass or ceramic household items in good condition to local thrift stores.
 
 Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,'Damaged glass or ceramic household items such as plates, bowls, or drinking glasses can go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'These items can’t be recycled by Seattle because they have different melting points than recyclable glass.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -877,14 +877,14 @@ Some building supply or second use stores accept mirrors.',NULL,NULL,'Mirrors ca
 
 Items must fit in your bin with the lid closed.
 Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(7,13,1,'Mugs, Plates, or Bowls',NULL,NULL,NULL,'•Mugs
-•Plates
-•Bowls',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(7,13,1,'Mugs, Plates, or Bowls',NULL,NULL,NULL,'• Mugs
+• Plates
+• Bowls',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (7,14,1,'Window or Picture Glass',NULL,NULL,'Bring windows and glass to city transfer stations. Charge is $30 per item (limit 2 per load) or $8 per item plus $145 per ton for other materials if part of a larger load.','Unbroken windows and window glass can go in the garbage:
-•Items must fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,'Some building supply or second use stores accept unbroken windows or other glass in good condition.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(8,1,1,'Aerosol Cans',NULL,NULL,NULL,'•Empty aerosol cans
-•Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Items must fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,'Some building supply or second use stores accept unbroken windows or other glass in good condition.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(8,1,1,'Aerosol Cans',NULL,NULL,NULL,'• Empty aerosol cans
+• Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,2,1,'Ammunition or Guns',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Call the Seattle Police Firing Range at (206) 684-7470 to dispose of ammunition or firearms.',NULL,NULL),
 (8,3,1,'Asbestos',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Because asbestos is harmful to people, animals, and the environment, it must be disposed of at designated facilities.',NULL,NULL,NULL,NULL,NULL,'Bring to an asbestos disposal facility.',NULL,NULL),
 (8,4,1,'Alkaline Batteries',NULL,NULL,NULL,'Non-rechargeable, household alkaline batteries (such as AAA, AA, C, D, or 9-volt) can go in the garbage.',NULL,'Bring alkaline batteries to city transfer stations. No fee.
@@ -922,13 +922,13 @@ They can’t go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NU
 (8,4,9,'Car or Lead-Acid Batteries',NULL,NULL,NULL,NULL,NULL,'Bring vehicle batteries to city transfer stations. Fees apply.
 
 Bring up to 5 vehicle batteries per trip to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(8,5,1,'Aerosol Cans',NULL,NULL,NULL,'•Empty aerosol cans
-•Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(8,5,1,'Aerosol Cans',NULL,NULL,NULL,'• Empty aerosol cans
+• Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,5,2,'Fire Extinguishers',NULL,NULL,NULL,'Empty CO2 and halon (bromo difluoromethane) fire extinguishers go in the garbage.',NULL,NULL,NULL,'Bring fire extinguishers that are full or partially full to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,5,3,'Helium Tanks',NULL,NULL,NULL,'Empty helium tanks 5-gallons or smaller can go in the garbage:
-•Turn the valve all the way to the left to release remaining helium.
-•Avoid extra charges – Tank should fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,'Check with your supplier for return and refill options.
+• Turn the valve all the way to the left to release remaining helium.
+• Avoid extra charges – Tank should fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,'Check with your supplier for return and refill options.
 
 For tanks larger than 5-gallons or commercial cylinders, refer to information printed on the tank for instructions on recycling or exchange options.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,5,4,'Oxygen and Acetylene Tanks',NULL,NULL,NULL,NULL,NULL,'Contact the supplier or manufacturer. In most cases, they will take the tank back at no cost.
@@ -948,27 +948,27 @@ Don’t exceed the weight limits printed on your bin.',NULL,'Bring fiberglass to
 (8,8,1,'Fireworks',NULL,NULL,NULL,'Make sure used fireworks are completely burned out and cooled down by submerging them in a bucket of water for fifteen minutes before putting them in the garbage. Learn more on the Washington State Fire Marshal website.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Call the Seattle Police Firing Range at (206) 684-7470 to dispose of small, unused residential fireworks.',NULL,NULL),
 (8,9,1,'Fluorescent Light Bulbs',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring up to 10 fluorescent tubes and CFLs per a trip to a household hazardous waste facility or to a LightRecycle location. No fee.',NULL,NULL,NULL,NULL,'Fluorescent tubes and CFLs are banned from the garbage because they contain mercury, which is highly toxic. To prevent breaking the tubes or bulbs and releasing mercury when storing or transporting, wrap them in newspaper or put back in their original packaging.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,1,'Antifreeze',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring antifreeze to a household hazardous waste facility:
-•All containers must be 5-gallons or less.
-•Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,'Antifreeze is harmful to people, animals, and the environment and should never be poured down drains, toilets, or on the ground.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• All containers must be 5-gallons or less.
+• Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,'Antifreeze is harmful to people, animals, and the environment and should never be poured down drains, toilets, or on the ground.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,2,'Bleach',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring partially full containers of chlorine bleach to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,'Empty and rinsed bleach bottles go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,3,'Brake or Transmission Fluid',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring brake and transmission fluids to a household hazardous waste facility:
-•Put brake and transmission fluids in a sealed container that is 5-gallons or less.
-•Limit 50-gallons per trip.
+• Put brake and transmission fluids in a sealed container that is 5-gallons or less.
+• Limit 50-gallons per trip.
 
 For more information, call our household hazards line at (206) 296-4692. Hours are 9 a.m. – 4:30 p.m., Monday through Friday.',NULL,NULL,NULL,NULL,'Don’t pour brake and transmission fluids down drains or toilets, down storm drains, or into soil. These all cause water pollution.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,4,'Cleaning Supplies',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring partially full containers of cleaning supplies labeled with caution, warning, danger, or poison to a household hazardous waste facility. No fee.
-•All containers must be 5-gallons or less.
-•Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,'Empty non-toxic cleaning supply containers go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
+• All containers must be 5-gallons or less.
+• Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,'Empty non-toxic cleaning supply containers go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,5,'Gasoline',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring gasoline to a household hazardous waste facility:
-•Put gas in a sealed container that is 5-gallons or less.
-•Use gasoline-compatible containers (not food or milk jugs).
-•Limit 30-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Put gas in a sealed container that is 5-gallons or less.
+• Use gasoline-compatible containers (not food or milk jugs).
+• Limit 30-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,6,'Glues or Adhesives',NULL,NULL,NULL,'Non-toxic glues go in the garbage. This includes Elmer’s, glue sticks, and other glues used in schools.',NULL,NULL,NULL,'Bring glues and adhesives labeled with caution, warning, danger, or poison to a household hazardous waste facility. No fee.
-•All containers must be 5-gallons or less.
-•Limit 50-gallons per trip',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• All containers must be 5-gallons or less.
+• Limit 50-gallons per trip',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,7,'Hobby Chemicals',NULL,NULL,NULL,'Empty hobby chemical containers go in the garbage.',NULL,NULL,NULL,'Bring partially full containers of hobby chemicals labeled with caution, warning, danger, or poison to a household hazardous waste facility. No fee.
-•All containers must be 5-gallons or less.
-•Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• All containers must be 5-gallons or less.
+• Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,9,'Latex Paint',NULL,NULL,NULL,'Dry latex paint by leaving the can open and protected from children and animals.
 Separate the lid from the dried paint can and put both in your garbage.
 Tip: You can harden large amounts of latex paint by adding cat litter to the can.',NULL,'Drop off unused latex paint, in the original container, for a fee at local locations in the Take it Back network',NULL,NULL,NULL,NULL,NULL,NULL,'Throwing out your dried paint can with the lid removed lets your garbage collector knows the paint is dried.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -987,24 +987,24 @@ Separate the lid from the dried paint can and put both in your garbage.',NULL,NU
 
 Pool and spa chemicals aren’t allowed in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,10,13,'Solvents',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring solvents like paint thinner to a household hazardous waste facility:
-•Put solvents in a sealed container that is 5-gallons or less.
-•Limit 50-gallons per trip.
+• Put solvents in a sealed container that is 5-gallons or less.
+• Limit 50-gallons per trip.
 
 Solvents aren’t allowed in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,11,1,'Medicines',NULL,NULL,NULL,NULL,NULL,'Bring medicines to a secure medicine return site.',NULL,NULL,NULL,NULL,NULL,NULL,'Flushing medicine down the toilet or sink, or putting medicine in your backyard compost or food and yard waste bin can pollute our waterways and the environment.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,12,1,'Motor Oil Containers',NULL,NULL,NULL,'Empty motor oil containers go in the garbage. They can’t be recycled.',NULL,'Bring partially full motor oil containers to:
-•City transfer stations. Fees apply.
-•A household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• City transfer stations. Fees apply.
+• A household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (8,13,1,'Needles or Syringes',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'These can’t go in the garbage, they can injure other people.
 
 To dispose of syringes, needles, and lancets (also called “sharps”), you must put them in a rigid and sealable container like a plastic soda bottle. Then bring to a designated disposal location:
-•Intersection of Airport Way South and South Holgate Street
-•Intersection of 27th Avenue South and Cheasty Boulevard South (center median)
-•Fremont Canal Park (199 North Canal St, Seattle, WA 98103)
-•Freeway Park (700 Seneca St)
-•Mineral Springs Park (1500 North 105th St, Seattle, WA 98133)
-•Roxhill Park (2850 SW Roxbury St, Seattle, WA 98126)
-•North or South transfer stations
+• Intersection of Airport Way South and South Holgate Street
+• Intersection of 27th Avenue South and Cheasty Boulevard South (center median)
+• Fremont Canal Park (199 North Canal St, Seattle, WA 98103)
+• Freeway Park (700 Seneca St)
+• Mineral Springs Park (1500 North 105th St, Seattle, WA 98133)
+• Roxhill Park (2850 SW Roxbury St, Seattle, WA 98126)
+• North or South transfer stations
 
 If you find a syringe on public property, report it as illegal dumping.
 
@@ -1041,8 +1041,8 @@ Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.'
 Fees apply for water heaters with insulation.
 There is no fee for water heaters with all insulation removed.',NULL,'Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,2,1,'Barrels or Drums',NULL,NULL,NULL,'Plastic and dirty metal drums that held non-hazardous material can go in the garbage.',NULL,'Bring barrels and drums that held non-hazardous material to city transfer stations:
-•Empty barrels and drums must be clean and cut in half.
-•Clean metal can be recycled for no fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Sealed drums and drums that held hazardous waste must go to King County Household Hazardous Waste.',NULL,NULL),
+• Empty barrels and drums must be clean and cut in half.
+• Clean metal can be recycled for no fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Sealed drums and drums that held hazardous waste must go to King County Household Hazardous Waste.',NULL,NULL),
 (9,3,1,'Alkaline Batteries',NULL,NULL,NULL,'Non-rechargeable, household alkaline batteries (such as AAA, AA, C, D, or 9-volt) can go in the garbage.',NULL,'Bring alkaline batteries to city transfer stations. No fee.
 
 Bring alkaline batteries to a household hazardous waste facility where the materials in the batteries will be reclaimed and recycled. No fee.','Bring alkaline batteries and rechargeable batteries to a household hazardous waste facility, where the materials in the batteries will be reclaimed and recycled. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1084,22 +1084,22 @@ Bring bikes and parts to city transfer stations to be recycled. No fee.',NULL,NU
 
 Items must fit in your bin with the lid closed.
 Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,5,1,'Aerosol Cans',NULL,NULL,NULL,'•Empty aerosol cans
-•Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(9,5,1,'Aerosol Cans',NULL,NULL,NULL,'• Empty aerosol cans
+• Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,5,2,'Beverage Cans',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Using recycled aluminum to make things takes 98% less energy than using new material.',NULL,'Empty soda and beverage cans go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
 (9,5,3,'Can Lids',NULL,NULL,NULL,'Loose can lids (not attached) go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Keep can lids partially attached or push the lid into the can. You don’t need to remove the can label.',NULL,NULL,NULL,NULL,NULL,NULL),
 (9,5,4,'Paint Cans',NULL,NULL,NULL,'Empty latex or oil-based paint cans can go in the garbage:
 1.Remove the lid and let fumes evaporate outside, away from children and animals.
 2.Separate the lid from the dried paint can and put both in your garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Throwing out your dried paint can with the lid removed lets your garbage collector knows the paint is dried.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,5,5,'Steel or Tin Cans',NULL,NULL,NULL,'Loose can lids (not attached or pushed into the can) go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Keep can lids partially attached or push the lid into the can. You don’t need to remove the can label.',NULL,NULL,NULL,NULL,NULL,NULL),
-(9,6,1,'Aerosol Cans',NULL,NULL,NULL,'•Empty aerosol cans
-•Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,6,2,'Fire Extinguishers',NULL,NULL,NULL,'•Empty aerosol cans
-•Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(9,6,1,'Aerosol Cans',NULL,NULL,NULL,'• Empty aerosol cans
+• Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(9,6,2,'Fire Extinguishers',NULL,NULL,NULL,'• Empty aerosol cans
+• Partially full cans with non-hazardous contents',NULL,NULL,NULL,'Bring cans that contain hazardous materials like paint, solvents, or other flammables to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,6,3,'Helium Tanks',NULL,NULL,NULL,'Empty helium tanks 5-gallons or smaller can go in the garbage:
-•Turn the valve all the way to the left to release remaining helium.
-•Avoid extra charges – Tank should fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,'Check with your supplier for return and refill options.
+• Turn the valve all the way to the left to release remaining helium.
+• Avoid extra charges – Tank should fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,'Check with your supplier for return and refill options.
 
 For tanks larger than 5-gallons or commercial cylinders, refer to information printed on the tank for instructions on recycling or exchange options.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,6,4,'Oxygen and Acetylene Tanks',NULL,NULL,NULL,NULL,NULL,'Contact the supplier or manufacturer. In most cases, they will take the tank back at no cost.
@@ -1115,9 +1115,9 @@ Empty small “Coleman” style canisters can be dropped off at a Recology Store
 
 Resell or give them away using sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Baking trays and cookie sheets less than two feet in any direction and free of food residue go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,7,2,'Cookie Tins',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Cookie tins clean of food debris go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,7,3,'Foil Pie Pans',NULL,NULL,NULL,'•Dirty or food-covered aluminum foil or food pans',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Aluminum food pans
-•Aluminum foil – don’t crumple into a ball',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,7,4,'Jar Lids',NULL,NULL,NULL,'•Loose lids less than 3-inches in diameter',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Plastic and metal lids 3-inches in diameter or larger',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(9,7,3,'Foil Pie Pans',NULL,NULL,NULL,'• Dirty or food-covered aluminum foil or food pans',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Aluminum food pans
+• Aluminum foil – don’t crumple into a ball',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(9,7,4,'Jar Lids',NULL,NULL,NULL,'• Loose lids less than 3-inches in diameter',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Plastic and metal lids 3-inches in diameter or larger',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,7,6,'Microwaves','Donate microwaves in working condition to local thrift stores.
 
 Find locations to recycle damaged microwaves via the Take It Back Network.',NULL,NULL,'Small microwaves can go in the garbage.',NULL,'Bring microwaves to city transfer stations. Charge is $30 per item (limit 2 per load) or $8 per item plus $145 per ton for other materials if part of a larger load.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1125,72 +1125,72 @@ Find locations to recycle damaged microwaves via the Take It Back Network.',NULL
 (9,7,8,'Silverware',NULL,NULL,NULL,'Silverware and other metal items smaller than 3-inches on all sides can go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Silverware and other metal items 3-inches or larger can go in the recycling. Small amounts of attached rubber, plastic, wood accepted.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,7,9,'Small Appliances',NULL,NULL,NULL,'Toasters, blenders, food processors and mixers can go in the garbage.',NULL,'Some small household appliances can be recycled as scrap metal for free at city transfer stations.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,7,10,'Wine Bottle Foil',NULL,NULL,NULL,'Foil from wine bottles goes in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,7,11,'Aluminum Foil',NULL,NULL,NULL,'•Dirty or food-covered aluminum foil or food pans
-•Wine bottle foil',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Aluminum foil – don’t crumple into a ball
-•Aluminum food pans',NULL,NULL,NULL,NULL,NULL,NULL),
+(9,7,11,'Aluminum Foil',NULL,NULL,NULL,'• Dirty or food-covered aluminum foil or food pans
+• Wine bottle foil',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Aluminum foil – don’t crumple into a ball
+• Aluminum food pans',NULL,NULL,NULL,NULL,NULL,NULL),
 (9,8,1,'Hand Tools','Donate hand tools in good condition to local thrift stores.
 
-Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,'•Metal tools less than 3 inches
-•Tools that contain large amounts of rubber, wood, or plastic',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Metal tools 3 inches or more in size
-•Can include small amounts of wood, rubber, or plastic',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,'• Metal tools less than 3 inches
+• Tools that contain large amounts of rubber, wood, or plastic',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Metal tools 3 inches or more in size
+• Can include small amounts of wood, rubber, or plastic',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,9,1,'Jewelry or Coins',NULL,NULL,NULL,'You can put jewelry and coins in the garbage.',NULL,'You can donate jewelry and coins to thrift stores, and can often sell these items to jewelry buyers or coin and precious metal dealers.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,10,1,'Lawn Mowers or Power Equipment',NULL,NULL,'You must drain all gas and oil from lawn mowers and other power equipment. Bring emptied mowers and equipment to city transfer stations. No charge for lawn mowers.',NULL,NULL,NULL,NULL,'Bring gas and oil to a household hazardous waste facility. No fee.
-•Don’t mix fluids together!
-•Put fluids in a sealed container that is 5 gallons or less.
-•Limit 50 gallons per trip.','Donate lawn mowers or power equipment in working condition to local thrift stores. Call first to confirm acceptance policies.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Don’t mix fluids together!
+• Put fluids in a sealed container that is 5 gallons or less.
+• Limit 50 gallons per trip.','Donate lawn mowers or power equipment in working condition to local thrift stores. Call first to confirm acceptance policies.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,11,1,'License Plates',NULL,NULL,NULL,NULL,NULL,'Bring license plates to a vehicle licensing office or mail them to:
 
 Department of Licensing
  1125 Washington St. SE
  Olympia, WA 98504',NULL,NULL,NULL,NULL,NULL,'Remove the tabs and bend the license plates before putting in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,12,1,'Aluminum',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'•Metal items with plastic, wood, or rubber attached
-•Metal items that are smaller than 3-inches',NULL,'•All metal, except car parts, is accepted as recycling at city transfer stations. There is no charge for recycling at the transfer station.
-•Maximum size is 8-feet long.
-•There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'•Metal parts larger than 3-inches go in the recycling.',NULL,NULL,NULL,'•Large metal parts can be put at the curb for pickup on your recycling collection day.
-•These must be bundled or tied.
-•The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
-(9,12,2,'Cast Iron',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'•Metal items with large amounts of plastic, wood, or rubber attached
-•Metal items that are smaller than 3-inches',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no charge for recycling at the transfer station.
-•All metal, except car parts, is accepted as recycling at city transfer stations. There is no charge for recycling at the transfer station.
-•Maximum size is 8-feet long.
-•There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'•Rusted metal can be recycled unless the metal is falling apart.
-•Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
-•These must be bundled or tied.
-•The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
-(9,12,3,'Copper, Bronze, or Brass',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'•Metal items with large amounts of plastic, wood, or rubber attached
-•Metal items that are smaller than 3-inches',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
-•Maximum size is 8-feet long.
-•There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'Metal parts larger than 3-inches go in the recycling.
-•Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
-•These must be bundled or tied.
-•The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
+(9,12,1,'Aluminum',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'• Metal items with plastic, wood, or rubber attached
+• Metal items that are smaller than 3-inches',NULL,'• All metal, except car parts, is accepted as recycling at city transfer stations. There is no charge for recycling at the transfer station.
+• Maximum size is 8-feet long.
+• There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'• Metal parts larger than 3-inches go in the recycling.',NULL,NULL,NULL,'• Large metal parts can be put at the curb for pickup on your recycling collection day.
+• These must be bundled or tied.
+• The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
+(9,12,2,'Cast Iron',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'• Metal items with large amounts of plastic, wood, or rubber attached
+• Metal items that are smaller than 3-inches',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no charge for recycling at the transfer station.
+• All metal, except car parts, is accepted as recycling at city transfer stations. There is no charge for recycling at the transfer station.
+• Maximum size is 8-feet long.
+• There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'• Rusted metal can be recycled unless the metal is falling apart.
+• Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
+• These must be bundled or tied.
+• The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
+(9,12,3,'Copper, Bronze, or Brass',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'• Metal items with large amounts of plastic, wood, or rubber attached
+• Metal items that are smaller than 3-inches',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
+• Maximum size is 8-feet long.
+• There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'Metal parts larger than 3-inches go in the recycling.
+• Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
+• These must be bundled or tied.
+• The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
 (9,12,4,'Gold, Silver and Precious Metals',NULL,NULL,NULL,'You can put gold, silver, and other precious metals in the garbage.',NULL,'You can often sell gold, silver, and broken jewelry to jewelry buyers or coin and precious metal dealers.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,12,5,'Iron or Steel',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'•Metal items with large amounts of plastic, wood, or rubber attached.
-•Metal items that are smaller than 3-inches.',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
-•Maximum size is 8-feet long.
-•There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'Metal parts larger than 3-inches go in the recycling.
-•Small amounts of plastic, wood, or rubber can be attached.
-•Rusted metal can be recycled unless the metal is falling apart.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
-•These must be bundled or tied.
-•The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
+(9,12,5,'Iron or Steel',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'• Metal items with large amounts of plastic, wood, or rubber attached.
+• Metal items that are smaller than 3-inches.',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
+• Maximum size is 8-feet long.
+• There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'Metal parts larger than 3-inches go in the recycling.
+• Small amounts of plastic, wood, or rubber can be attached.
+• Rusted metal can be recycled unless the metal is falling apart.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
+• These must be bundled or tied.
+• The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
 (9,12,6,'Lead',NULL,NULL,NULL,NULL,NULL,'Bring lead 8-feet or smaller to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,'Caution: Protect your skin when handling lead. It’s potentially hazardous.','Lead pieces 3-inches or larger can go in the recycling:
-•Lead should fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(9,12,7,'Scrap Metal',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'•Metal items with large amounts of plastic, wood, or rubber attached
-•Metal items that are smaller than 3-inches',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
-•Maximum size is 8-feet long.
-•There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'Metal parts larger than 3-inches go in the recycling.
-•Rusted metal can be recycled unless the metal is falling apart.
-•Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
-•These must be bundled or tied.
-•The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
-(9,12,8,'Stainless Steel',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'•Metal items that are smaller than 3-inches.
-•Metal items with plastic, wood, or rubber attached.',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
-•Maximum size is 8-feet long.
-•There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'•Metal parts larger than 3-inches go in the recycling.
-•Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb next to your bin on your recycling collection day.
-•These must be bundled or tied.
-•The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
+• Lead should fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(9,12,7,'Scrap Metal',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'• Metal items with large amounts of plastic, wood, or rubber attached
+• Metal items that are smaller than 3-inches',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
+• Maximum size is 8-feet long.
+• There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'Metal parts larger than 3-inches go in the recycling.
+• Rusted metal can be recycled unless the metal is falling apart.
+• Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb for pickup on your recycling collection day.
+• These must be bundled or tied.
+• The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
+(9,12,8,'Stainless Steel',NULL,'Call SPU Customer Service at (206) 684-3000 to request bulky item collection. Fees apply.',NULL,'• Metal items that are smaller than 3-inches.
+• Metal items with plastic, wood, or rubber attached.',NULL,'All metal, except car parts, is accepted as recycling at city transfer stations. There is no fee for most metal.
+• Maximum size is 8-feet long.
+• There is a charge for appliances, limit 2 per load.',NULL,NULL,NULL,NULL,NULL,'• Metal parts larger than 3-inches go in the recycling.
+• Small amounts of plastic, wood, or rubber can be attached.',NULL,NULL,NULL,'Large metal parts can be put at the curb next to your bin on your recycling collection day.
+• These must be bundled or tied.
+• The maximum size is 2-feet on all sides.',NULL,NULL,NULL,NULL,NULL),
 (9,13,1,'Keys',NULL,NULL,NULL,'Keys and other metal items smaller than 3-inches go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Small metal items can fall through the sorting machinery at the recycling plant.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,13,2,'Screws, Nails, Nuts or Bolts',NULL,NULL,NULL,'Screws, nails, nuts, bolts, and other metal items smaller than 3-inches go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Small metal items can fall through the sorting machinery at the recycling plant.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (9,14,1,'Window Blinds',NULL,NULL,NULL,'Plastic, vinyl, and wooden blinds go in the garbage.','Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,NULL,NULL,NULL,NULL,'Individual metal blind slats go in the recycling. Remove strings, cords, and plastic and put these in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1220,46 +1220,46 @@ Paperboard boxes (like butter and cereal boxes) go in the recycling. They aren�
 (10,2,3,'Food Box Liners',NULL,NULL,NULL,'Plastic liners, bags, and trays from food boxes go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,2,4,'Ice Cream Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Ice cream cartons and lids go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
 (10,2,5,'Laundry Detergent Boxes',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Empty and flatten laundry detergent boxes and then put in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(10,2,6,'Milk, Juice, or Soup Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Milk, juice, and soup cartons
-•Cartons labeled Tetra Pak
-•Other aseptic cartons
+(10,2,6,'Milk, Juice, or Soup Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Milk, juice, and soup cartons
+• Cartons labeled Tetra Pak
+• Other aseptic cartons
 
 Plastic spouts don’t need to be removed to recycle food cartons.',NULL,NULL,NULL,NULL,NULL,NULL),
 (10,2,7,'Paper Berry Baskets',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Paper berry baskets go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(10,2,8,'Paper Cups or Coffee Cups',NULL,NULL,NULL,'•Styrofoam cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Paper or coffee cups labeled as “Compostable”','•Clean, dry and empty paper cups',NULL,NULL,NULL,NULL,NULL,NULL),
-(10,2,9,'Paper Egg Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Clean paper egg cartons','Many egg sellers at farmers'' markets will take back clean egg cartons to reuse them.','•Paper egg cartons with food residue on them',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(10,2,8,'Paper Cups or Coffee Cups',NULL,NULL,NULL,'• Styrofoam cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Paper or coffee cups labeled as “Compostable”','• Clean, dry and empty paper cups',NULL,NULL,NULL,NULL,NULL,NULL),
+(10,2,9,'Paper Egg Cartons',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Clean paper egg cartons','Many egg sellers at farmers'' markets will take back clean egg cartons to reuse them.','• Paper egg cartons with food residue on them',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,2,10,'Pizza Boxes',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Pizza boxes that are clean go in the recycling.',NULL,'Greasy or food-soiled pizza boxes go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(10,2,11,'Take-Out Containers',NULL,NULL,NULL,'•Styrofoam containers
-•Dirty plastic-coated (shiny) paper containers
-•Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Dirty or clean uncoated (not shiny) paper take-out containers
-•Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
-•Greasy pizza boxes
+(10,2,11,'Take-Out Containers',NULL,NULL,NULL,'• Styrofoam containers
+• Dirty plastic-coated (shiny) paper containers
+• Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Dirty or clean uncoated (not shiny) paper take-out containers
+• Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
+• Greasy pizza boxes
 
-Learn more about compostable packaging (pdf).','•Empty and rinsed plastic clamshell containers
-•Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
+Learn more about compostable packaging (pdf).','• Empty and rinsed plastic clamshell containers
+• Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
 (10,2,12,'Tissue Boxes',NULL,NULL,NULL,'Unused tissue goes in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Tissue boxes go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,3,1,'Food-soiled Paper',NULL,NULL,NULL,'Shiny, plastic-coated food packaging, paper plates, or bowls go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'The shiny coating on paper plates and cups is usually plastic. Scrape the coating with your fingernail or a knife. If wax collects under your fingernail, the coating is wax. Wax-coated cups and plates can go in your food waste bin.','Uncoated paper with food or grease on it goes in the food and yard waste. This includes:
-•Pizza boxes
-•Paper napkins
-•Paper towels used to wipe up food
-•Uncoated (not shiny) paper plates and bowls (such as Chinet brand)',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Pizza boxes
+• Paper napkins
+• Paper towels used to wipe up food
+• Uncoated (not shiny) paper plates and bowls (such as Chinet brand)',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,1,'Envelopes',NULL,NULL,NULL,'Bubble pack envelopes go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Recycle all paper envelopes, including those with plastic windows.','This recyclable item is banned from Seattle''s garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,2,'Facial Tissue (Kleenex)',NULL,NULL,NULL,'Kleenex (facial tissue) goes in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,3,'Flushable Wipes',NULL,NULL,NULL,'Baby wipes, wet wipes, cleaning wipes, and any wipes labeled “flushable” go in your garbage.
 
 If flushed down your toilet, they can clog your sewer pipes.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(10,4,4,'Gift Wrap',NULL,NULL,NULL,'•Plastic gift wrap
-•Foil gift wrap
-•Plastic or foil gift bows',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Wrapping paper
-•Paper gift bags
-•Paper gift boxes
-•Gift tissue paper',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(10,4,4,'Gift Wrap',NULL,NULL,NULL,'• Plastic gift wrap
+• Foil gift wrap
+• Plastic or foil gift bows',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Wrapping paper
+• Paper gift bags
+• Paper gift boxes
+• Gift tissue paper',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,5,'Napkins',NULL,NULL,NULL,'Paper napkins and towels used with cleaning products or that have bodily fluids go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Paper napkins and towels that have food or grease on them go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,6,'Paper Bags',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean and dry paper bags go the recycling.',NULL,'Food-soiled bags go in the food and yard waste cart.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(10,4,7,'Paper Plates or Cups',NULL,NULL,NULL,'•Dirty plates and cups with a shiny coating
-•Styrofoam plates and cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Paper cups with a small amount of liquid
-•Clean paper plates','The shiny coating on paper plates and cups is usually plastic. Scrape the coating with your fingernail or a knife. If wax collects under your fingernail, the coating is wax. Wax-coated cups and plates can go in your food waste bin.','•Paper plates or cups labeled as “Compostable”
-•Uncoated (not shiny) paper plates (such as Chinet brand)',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(10,4,7,'Paper Plates or Cups',NULL,NULL,NULL,'• Dirty plates and cups with a shiny coating
+• Styrofoam plates and cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Paper cups with a small amount of liquid
+• Clean paper plates','The shiny coating on paper plates and cups is usually plastic. Scrape the coating with your fingernail or a knife. If wax collects under your fingernail, the coating is wax. Wax-coated cups and plates can go in your food waste bin.','• Paper plates or cups labeled as “Compostable”
+• Uncoated (not shiny) paper plates (such as Chinet brand)',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,8,'Paper Punch Holes',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Paper punch holes are too small to be recycled at the recycling facility.','Paper punch holes go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,9,'Paper Towels',NULL,NULL,NULL,'Paper towels used with cleaning products or that have bodily fluids on them go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Paper towels and napkins that have food or grease on them go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,4,10,'Paper Towel Rolls',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Paper towel and toilet paper rolls go in the recycling. Glue and small amounts of paper are okay to leave on.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1273,11 +1273,11 @@ If flushed down your toilet, they can clog your sewer pipes.',NULL,NULL,NULL,NUL
 (10,5,3,'Greeting Cards',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Greeting cards and other paper cards go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,5,4,'Hardback Books',NULL,NULL,NULL,'Hardcover books can go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Hardcover books can’t be recycled due to the glue in the binding.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,5,5,'Junk Mail',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'All paper junk mail goes in the recycling. This includes:
-•Catalogs
-•Fliers
-•Envelopes – with or without clear plastic windows
-•Newspapers
-•Phone books','Paper and junk mail can’t go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Catalogs
+• Fliers
+• Envelopes – with or without clear plastic windows
+• Newspapers
+• Phone books','Paper and junk mail can’t go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,5,6,'Magazines',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Magazines go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,5,7,'Newspapers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Newspaper goes in the recycling.','Clean, recyclable newspaper is not allowed in the garbage.','Wet or food-soiled newspaper goes in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (10,5,8,'Office Paper',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Office paper and printer paper go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1293,45 +1293,45 @@ Phone books aren’t allowed in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL
 (11,1,2,'Chip Bags',NULL,NULL,NULL,'Chip bags go in the garbage because they are made from several different materials that can’t be separated for recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,1,3,'Dry Cleaner Bags',NULL,NULL,NULL,'Single dry cleaner bags go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bundle dry cleaner bags together with other recyclable plastic bags (such as newspaper bags or grocery bags). Put bundle into one plastic bag, tie off, and put in the recycling.','Single plastic bags go in the garbage because they jam the machinery at the recycling facility.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,1,5,'Food Box Liners',NULL,NULL,NULL,'Plastic liners, bags, and trays from food boxes go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,1,6,'Grocery or Shopping Bags',NULL,NULL,NULL,'•Plastic bags that are wet or food-soiled
-•Plastic produce bags
-•Single plastic bags',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Clean and empty plastic grocery bags – bundle into one bag and tie off
-•Clean and dry paper bags or paper sacks','Single plastic bags go in the garbage because they jam the machinery at the recycling facility. Produce bags are not recyclable because they often contain food or moisture that contaminate the recycling.','•Paper bags that are wet or food-soiled',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(11,1,6,'Grocery or Shopping Bags',NULL,NULL,NULL,'• Plastic bags that are wet or food-soiled
+• Plastic produce bags
+• Single plastic bags',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Clean and empty plastic grocery bags – bundle into one bag and tie off
+• Clean and dry paper bags or paper sacks','Single plastic bags go in the garbage because they jam the machinery at the recycling facility. Produce bags are not recyclable because they often contain food or moisture that contaminate the recycling.','• Paper bags that are wet or food-soiled',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,1,7,'Newspaper Bags',NULL,NULL,NULL,'Single newspaper bags go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bundle plastic newspaper bags together with other recyclable plastic bags (such as dry cleaner bags or grocery bags). Put bundle into one plastic bag, tie off, and put in the recycling.','Single plastic bags go in the garbage because they jam the machinery at the recycling facility.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,1,8,'Produce Bags or Bulk Food Bags',NULL,NULL,NULL,'Plastic bags used for produce and bulk foods go in the garbage',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'These bags are not recycled because they often contain food residue or moisture.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,1,9,'Reusable Shopping Bags',NULL,NULL,NULL,'Reusable cloth shopping bags can go in the garbage.',NULL,'Stained, worn out, ripped, or damaged cloth shopping bags can be turned into new products through Threadcycle. Some local thrift and second-hand stores are partners and will accept these items at their regular collection or drop box locations.',NULL,NULL,NULL,NULL,NULL,'Thick, reusable plastic shopping bags go in the recycling. Bundle together with other recyclable plastic bags (such as newspaper bags, shopping bags, and dry cleaning bags) in a plastic bag.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,1,11,'Ziploc Bags',NULL,NULL,NULL,'Ziploc or other plastic food bags go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Ziploc and plastic food bags contain more than one type of plastic that can’t be recycled together. They also often contain food residue and moisture that contaminate recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,2,1,'Recycle Numbers 1-7',NULL,NULL,NULL,'•Styrofoam plates and cups
-•Plastic utensils
-•Dirty plates and cups with a shiny coating
-•Dirty plastic-like materials that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Nearly all plastics are recyclable in Seattle. This includes:
-•Yogurt containers
-•Deli containers
-•Bottles and jugs
-•Plastic lids 3-inches across or larger
-•Small plastic bottle caps if screwed onto an empty plastic bottle
-•Clean plastic plant pots
-•Tupperware
-•Vitamin and pill bottles (not prescription vials)','Seattle doesn’t recycle by number because it’s not a reliable way to determine the recyclability of an item.','Plastic-like containers labeled “Compostable” or “#7 PLA” go in the food and yard waste.
+(11,2,1,'Recycle Numbers 1-7',NULL,NULL,NULL,'• Styrofoam plates and cups
+• Plastic utensils
+• Dirty plates and cups with a shiny coating
+• Dirty plastic-like materials that aren’t marked “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Nearly all plastics are recyclable in Seattle. This includes:
+• Yogurt containers
+• Deli containers
+• Bottles and jugs
+• Plastic lids 3-inches across or larger
+• Small plastic bottle caps if screwed onto an empty plastic bottle
+• Clean plastic plant pots
+• Tupperware
+• Vitamin and pill bottles (not prescription vials)','Seattle doesn’t recycle by number because it’s not a reliable way to determine the recyclability of an item.','Plastic-like containers labeled “Compostable” or “#7 PLA” go in the food and yard waste.
 
 Learn more about compostable packaging (pdf).',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,1,'6-pack Plastic Rings',NULL,NULL,NULL,'Snip the plastic rings from 6-pack cans so none of the rings are intact.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,2,'Blister Packages',NULL,NULL,NULL,'Put blister packages in the garbage. They aren’t recyclable.
 
 Blister packages are the clear hard-to-open plastic packaging from items such as batteries and small electronics.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,3,3,'Clamshell Containers',NULL,NULL,NULL,'•Styrofoam clamshell containers
-•Dirty plastic or plastic-coated (shiny) clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Clamshell containers marked “Compostable” or “#7 PLA”
-•Dirty paper clamshell containers without a plastic coating','•Plastic clamshell containers
-•Plastic-coated (shiny) clamshell containers
-•Clean paper clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL),
+(11,3,3,'Clamshell Containers',NULL,NULL,NULL,'• Styrofoam clamshell containers
+• Dirty plastic or plastic-coated (shiny) clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Clamshell containers marked “Compostable” or “#7 PLA”
+• Dirty paper clamshell containers without a plastic coating','• Plastic clamshell containers
+• Plastic-coated (shiny) clamshell containers
+• Clean paper clamshell containers',NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,4,'Foam Egg Cartons',NULL,NULL,NULL,'Foam egg cartons go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Many egg sellers at farmers markets will take back clean egg cartons to reuse them.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,5,'Meat or Food Trays',NULL,NULL,NULL,'Styrofoam meat trays and the plastic absorbent insert go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Brown or beige trays for meat, poultry, and fish are made from plant-based material and are compostable.','Brown or beige trays for meat, poultry, and fish go in the food and yard waste.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,6,'Peanut Butter or Mayonnaise Jars',NULL,NULL,NULL,'Jars coated with oily film that cannot be cleaned off should to go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean jars coated with oily food like peanut butter or mayonnaise with a little bit of water and a brush. Then rinse jar clean',NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,7,'Plastic Berry Baskets',NULL,NULL,NULL,'Plastic berry baskets go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,8,'Plastic Berry Trays',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Plastic berry trays larger than 3-inches on any side go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
-(11,3,9,'Plastic Cups or Utensils',NULL,NULL,NULL,'•Dirty plastic cups
-•Plastic utensils
-•Styrofoam cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Empty and clean plastic cups',NULL,'Plastic-like containers labeled “Compostable” or “#7 PLA” go in the food and yard waste.
+(11,3,9,'Plastic Cups or Utensils',NULL,NULL,NULL,'• Dirty plastic cups
+• Plastic utensils
+• Styrofoam cups',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Empty and clean plastic cups',NULL,'Plastic-like containers labeled “Compostable” or “#7 PLA” go in the food and yard waste.
 
 Learn more about compostable packaging (pdf).',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,10,'Plastic Lids',NULL,NULL,NULL,'Lids less than 3-inches in diameter
@@ -1345,17 +1345,17 @@ Small plastic caps if screwed onto an empty plastic bottle',NULL,NULL,NULL,NULL,
 (11,3,11,'Plastic Milk or Juice Jugs',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Empty milk and juice jugs and bottles go in the recycling.
 
 Plastic lids and caps can be recycled if attached to the bottle.',NULL,NULL,NULL,NULL,NULL,NULL),
-(11,3,12,'Plastic Water or Soda Bottles',NULL,NULL,NULL,'•Pesticide bottles
-•Motor oil bottles
-•Other automotive fluid containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Empty plastic bottles
+(11,3,12,'Plastic Water or Soda Bottles',NULL,NULL,NULL,'• Pesticide bottles
+• Motor oil bottles
+• Other automotive fluid containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Empty plastic bottles
 Plastic bottle caps if attached to the empty bottle',NULL,'Bottles labeled “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,3,13,'Margarine Tubs, Yogurt Tubs, Etc.',NULL,NULL,NULL,'•Food tubs with food inside
-•Lids less than 3-inches across',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Plastic food containers for yogurt, margarine, dips, salsa, etc.
-•Plastic lids 3-inches across or larger',NULL,NULL,NULL,NULL,NULL,NULL),
+(11,3,13,'Margarine Tubs, Yogurt Tubs, Etc.',NULL,NULL,NULL,'• Food tubs with food inside
+• Lids less than 3-inches across',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Plastic food containers for yogurt, margarine, dips, salsa, etc.
+• Plastic lids 3-inches across or larger',NULL,NULL,NULL,NULL,NULL,NULL),
 (11,3,14,'Tupperware',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,3,15,'Plastic Food Tubs',NULL,NULL,NULL,'•Containers with food inside
-•Lids less than 3-inches across',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Plastic food containers for yogurt, margarine, dips, salsa, etc.
-•Plastic lids 3-inches across or larger',NULL,NULL,NULL,NULL,NULL,NULL),
+(11,3,15,'Plastic Food Tubs',NULL,NULL,NULL,'• Containers with food inside
+• Lids less than 3-inches across',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Plastic food containers for yogurt, margarine, dips, salsa, etc.
+• Plastic lids 3-inches across or larger',NULL,NULL,NULL,NULL,NULL,NULL),
 (11,4,1,'Biodegradable Foam Peanuts',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,4,2,'Bubble Wrap',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bundle bubble wrap together with recyclable plastic bags (such as newspaper bags, shopping bags, and dry cleaning bags) in a plastic bag.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,4,3,'Bubble Pack Envelopes',NULL,NULL,NULL,'Bubble pack envelopes go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1367,16 +1367,16 @@ Plastic bottle caps if attached to the empty bottle',NULL,'Bottles labeled “Co
 (11,5,3,'Blister Packages',NULL,NULL,NULL,'Put blister packages in the garbage. They aren’t recyclable.
 
 Blister packages are the clear hard-to-open plastic packaging from items such as batteries and small electronics.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,5,4,'Bottle Caps',NULL,NULL,NULL,'•Loose plastic bottle caps
-•Metal beer and soda caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Small plastic bottle caps if screwed onto an empty plastic bottle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(11,5,4,'Bottle Caps',NULL,NULL,NULL,'• Loose plastic bottle caps
+• Metal beer and soda caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Small plastic bottle caps if screwed onto an empty plastic bottle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,5,5,'Bubble Wrap',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bundle bubble wrap together with recyclable plastic bags (such as newspaper bags, shopping bags, and dry cleaning bags) in a plastic bag.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,5,6,'CD or DVD Cases',NULL,NULL,NULL,'CD and DVD cases can go in the garbage.',NULL,'Stores that sell used CDs or DVDs may take cases in good condition.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,5,7,'CDs, DVDs, or Floppies','Donate CDs and DVDs in good condition to local thrift stores.
 
-Resell or give away usable CDs and DVDs through sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,'•CDs
-•DVDs
-•Floppy discs
-•CD and DVD cases',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+Resell or give away usable CDs and DVDs through sites like Craigslist, Freecycle, and Buy Nothing.',NULL,NULL,'• CDs
+• DVDs
+• Floppy discs
+• CD and DVD cases',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,5,8,'Plastic Clothes Hangers',NULL,NULL,NULL,'Plastic clothes hangers go in the garbage. They can’t be recycled.',NULL,NULL,NULL,NULL,'Donate plastic clothes hangers in good condition to local thrift stores.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,5,9,'Corks',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Rigid plastic outdoor furniture can go in the recycling:
 
@@ -1431,17 +1431,17 @@ Clean rigid plastic toys and sporting equipment 3 feet or less on all sides.',NU
 (11,6,1,'Blister Packages',NULL,NULL,NULL,'Put blister packages in the garbage. They aren’t recyclable.
 
 Blister packages are the clear hard-to-open plastic packaging from items such as batteries and small electronics.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,6,2,'Bottle Caps',NULL,NULL,NULL,'•Loose plastic bottle caps
-•Metal beer and soda caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Small plastic bottle caps if screwed onto an empty plastic bottle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(11,6,2,'Bottle Caps',NULL,NULL,NULL,'• Loose plastic bottle caps
+• Metal beer and soda caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Small plastic bottle caps if screwed onto an empty plastic bottle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,6,3,'Buckets',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean buckets go in your recycling bin or can be set at the curb next to your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,6,4,'Laundry Detergent Jugs',NULL,NULL,NULL,'•Loose caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Plastic laundry detergent jugs
-•Caps screwed onto the bottle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(11,6,4,'Laundry Detergent Jugs',NULL,NULL,NULL,'• Loose caps',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Plastic laundry detergent jugs
+• Caps screwed onto the bottle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,6,5,'Medicine Bottles - Over the Counter',NULL,NULL,NULL,'Plastic prescription medicine vials go the garbage.',NULL,'Bring medicines to a secure medicine return site.',NULL,NULL,NULL,NULL,NULL,'Pill bottles, such as aspirin or vitamin bottles, go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,6,6,'Pesticide Containers',NULL,NULL,NULL,'Empty pesticide containers go in the garbage',NULL,NULL,NULL,'Bring full or partially-full pesticide containers to your nearest household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,'Find ways to avoid using pesticides from the Garden Hotline.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,6,7,'Plastic Bottles',NULL,NULL,NULL,'•Pesticide bottles
-•Motor oil bottles
-•Other automotive fluid containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Empty, clean plastic bottles
-•Plastic bottle caps if attached to the empty bottle',NULL,'•Bottles labeled “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+(11,6,7,'Plastic Bottles',NULL,NULL,NULL,'• Pesticide bottles
+• Motor oil bottles
+• Other automotive fluid containers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Empty, clean plastic bottles
+• Plastic bottle caps if attached to the empty bottle',NULL,'• Bottles labeled “Compostable” or “#7 PLA”',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,6,8,'Plastic Jugs',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Empty milk, juice, and laundry detergent jugs go in the recycling.
 
 Plastic lids and caps can be recycled if attached to the bottle.',NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1457,20 +1457,20 @@ Plastic lids and caps can be recycled if attached to the bottle.',NULL,NULL,NULL
 (11,8,4,'Packing Peanuts',NULL,NULL,NULL,'Put packing peanuts in a clear plastic bag and tie closed. Then put in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,8,5,'Styrofoam Blocks',NULL,NULL,NULL,'Styrofoam blocks and packing sheets go in the garbage.',NULL,'Styro Recycle in Kent accepts Styrofoam blocks, packing sheets, and packing peanuts for recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (11,8,6,'Styrofoam Cups',NULL,NULL,NULL,'Styrofoam cups go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
-(11,8,7,'Take-Out Containers',NULL,NULL,NULL,'•Styrofoam containers
-•Dirty plastic-coated (shiny) paper containers
-•Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,'Styro Recycle in Kent accepts Styrofoam blocks, packing sheets, and packing peanuts for recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'•Dirty or clean uncoated (not shiny) paper take-out containers
-•Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
-•Greasy pizza boxes
+(11,8,7,'Take-Out Containers',NULL,NULL,NULL,'• Styrofoam containers
+• Dirty plastic-coated (shiny) paper containers
+• Dirty plastic containers that aren’t marked “Compostable” or “#7 PLA”',NULL,'Styro Recycle in Kent accepts Styrofoam blocks, packing sheets, and packing peanuts for recycling.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'• Dirty or clean uncoated (not shiny) paper take-out containers
+• Dirty or clean take-out containers labeled “Compostable” or “#7 PLA”
+• Greasy pizza boxes
 
-Learn more about compostable packaging (pdf).','•Empty and rinsed plastic clamshell containers
-•Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
+Learn more about compostable packaging (pdf).','• Empty and rinsed plastic clamshell containers
+• Empty and rinsed plastic-coated (shiny) paper containers',NULL,NULL,NULL,NULL,NULL,NULL),
 (12,1,1,'Antifreeze',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring antifreeze to a household hazardous waste facility:
-•All containers must be 5-gallons or less.
-•Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,'Antifreeze is harmful to people, animals, and the environment and should never be poured down drains, toilets, or on the ground.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• All containers must be 5-gallons or less.
+• Limit 50-gallons per trip.',NULL,NULL,NULL,NULL,'Antifreeze is harmful to people, animals, and the environment and should never be poured down drains, toilets, or on the ground.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,2,1,'Auto Glass',NULL,NULL,NULL,'Broken auto glass can go in the garbage:
-•Glass must fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,'Bring auto glass to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Glass must fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,'Bring auto glass to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,3,1,'Bicycles or Bike Parts',NULL,NULL,NULL,'Bike parts smaller than 3-inches go in the garbage.',NULL,'Donate or resell usable bikes and parts to scrap metal dealers or community-oriented bike shops like Bike Works or Recycled Cycles.
 
 Bring bikes and parts to city transfer stations to be recycled. No fee.',NULL,NULL,NULL,NULL,NULL,'Clean metal bike parts 3-inches or larger can go in the recycling:
@@ -1478,8 +1478,8 @@ Bring bikes and parts to city transfer stations to be recycled. No fee.',NULL,NU
 Items must fit in your bin with the lid closed.
 Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,4,1,'Brake or Transmission Fluid',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring brake and transmission fluids to a household hazardous waste facility:
-•Put brake and transmission fluids in a sealed container that is 5-gallons or less.
-•Limit 50-gallons per trip.
+• Put brake and transmission fluids in a sealed container that is 5-gallons or less.
+• Limit 50-gallons per trip.
 
 For more information, call our household hazards line at (206) 296-4692. Hours are 9 a.m. – 4:30 p.m., Monday through Friday.',NULL,NULL,NULL,NULL,'Don’t pour brake and transmission fluids down drains or toilets, down storm drains, or into soil. These all cause water pollution.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,5,1,'Car Batteries',NULL,NULL,NULL,NULL,NULL,'Styro Recycle in Kent accepts Styrofoam blocks, packing sheets, and packing peanuts for recycling.',NULL,NULL,NULL,NULL,NULL,NULL,'Don’t reuse broken car seats or car seats that have been in accidents. It isn’t safe.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1490,13 +1490,13 @@ Resell or give it away using sites like Craigslist, Freecycle, and Buy Nothing.'
 (12,8,1,'Flares',NULL,NULL,NULL,NULL,NULL,'Bring flares that don’t contain an explosive charge to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'For flares with an explosive charge, call the Seattle Police Firing Range at (206) 684-7470.',NULL,NULL),
 (12,9,1,'Gas Cans',NULL,NULL,NULL,'Empty gas cans that are 5-gallons or smaller can go in the garbage. Leave lid off empty can for 2 days before putting in garbage to release gas fumes.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,10,1,'Gasoline',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring gasoline to a household hazardous waste facility:
-•Put gas in a sealed container that is 5-gallons or less.
-•Use gasoline-compatible containers (not food or milk jugs).
-•Limit 30-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Put gas in a sealed container that is 5-gallons or less.
+• Use gasoline-compatible containers (not food or milk jugs).
+• Limit 30-gallons per trip.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,11,1,'Lawn Mowers or Power Equipment',NULL,NULL,'You must drain all gas and oil from lawn mowers and other power equipment. Bring emptied mowers and equipment to city transfer stations. No charge for lawn mowers.',NULL,NULL,NULL,NULL,'Bring gas and oil to a household hazardous waste facility. No fee.
-•Don’t mix fluids together!
-•Put fluids in a sealed container that is 5 gallons or less.
-•Limit 50 gallons per trip.','Donate lawn mowers or power equipment in working condition to local thrift stores. Call first to confirm acceptance policies.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Don’t mix fluids together!
+• Put fluids in a sealed container that is 5 gallons or less.
+• Limit 50 gallons per trip.','Donate lawn mowers or power equipment in working condition to local thrift stores. Call first to confirm acceptance policies.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,12,1,'License Plates',NULL,NULL,NULL,NULL,NULL,'Bring license plates to a vehicle licensing office or mail them to:
 
 Department of Licensing
@@ -1510,23 +1510,23 @@ Never pour motor oil on the ground or down the drain, it can pollute our waterwa
 3.Set up to 2 labeled 1-gallon containers on the curb next to your recycling bin.
 4.Apartment / Condo residents: Set out up to 2 labeled 1-gallon containers per cart at your building/complex.'),
 (12,14,1,'Motor Oil Containers',NULL,NULL,NULL,'Empty motor oil containers go in the garbage. They can’t be recycled.',NULL,'Bring partially full motor oil containers to:
-•City transfer stations. Fees apply.
-•A household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• City transfer stations. Fees apply.
+• A household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,15,1,'Motor Oil Filters',NULL,NULL,NULL,'Puncture the oil filter and drain the oil into a container for 24 hours. Seal drained filter in a plastic bag and put in the garbage.',NULL,'Bring drained or full oil filters to a household hazardous waste facility. No fee.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,16,1,'Other Vehicle Fluids',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Bring automotive fluids (such as brake, transmission, hydraulic, or power steering fluids) to a household hazardous waste facility:
-•Put fluids in a sealed container that is 5-gallons or less.
-•Limit 50-gallons per trip.',NULL,NULL,'Don’t mix fluids with used motor oil!',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Put fluids in a sealed container that is 5-gallons or less.
+• Limit 50-gallons per trip.',NULL,NULL,'Don’t mix fluids with used motor oil!',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,17,1,'Tires',NULL,NULL,NULL,NULL,NULL,'Bring up to 4 tires per visit to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,18,1,'Vehicles',NULL,NULL,NULL,NULL,NULL,'Many charitable organizations accept vehicles and provide a receipt for a tax deduction.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (12,19,1,'Starters, Carburetors, Etc.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (13,1,1,'Christmas Trees',NULL,NULL,NULL,NULL,NULL,'From December 26 to January 31, bring Christmas trees to city transfer stations for free. Starting February 1, regular fees apply.
-•Trees should not exceed 8-feet in length and must be free of decoration.
-•Trunks should not exceed 4-inches in diameter.
-•The stations will accept up to 3 trees per vehicle.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'From December 26 to January 31, holiday trees, wreaths, and greens can be composted for free. Place on the curb next to your food and yard waste cart on your regular collection day.
-•Flocked and plastic trees or wreaths will be charged as extra garbage.
-•Remove all decorations and lights, tinsel, metal clips, ornaments and bows.
-•Trees must be cut into lengths to 4-feet or shorter.
-•For bundling branches, use sisal string or twine (not plastic).
+• Trees should not exceed 8-feet in length and must be free of decoration.
+• Trunks should not exceed 4-inches in diameter.
+• The stations will accept up to 3 trees per vehicle.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'From December 26 to January 31, holiday trees, wreaths, and greens can be composted for free. Place on the curb next to your food and yard waste cart on your regular collection day.
+• Flocked and plastic trees or wreaths will be charged as extra garbage.
+• Remove all decorations and lights, tinsel, metal clips, ornaments and bows.
+• Trees must be cut into lengths to 4-feet or shorter.
+• For bundling branches, use sisal string or twine (not plastic).
 
 At apartments – Two trees may be placed next to each food and yard waste cart at no extra charge each collection day. Each additional tree will be picked up as extra yard waste (fees apply).',NULL),
 (13,2,1,'Clean Wood Waste',NULL,NULL,'Bring untreated wood waste to city transfer stations. Charge is $13 per load (limit 4 per load).
@@ -1548,26 +1548,26 @@ Bundles must be 2 feet or less in diameter.',NULL),
 Break wood down so it fits in your bin with the lid closed.
 Make sure it doesn’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (13,6,1,'Pallets',NULL,NULL,'Bring pallets to city transfer stations. Charge is $13 per load (limit 4 per load).','Pallets made from treated wood can be broken down and put in the garbage:
-•Items must fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Break pallets made from untreated wood into pieces that are:
-•4 inches or less in diameter
-•4 feet or less in length
-•Remove any nails or metallic items.',NULL,NULL,NULL,NULL,NULL,'Items that do not fit in your bin with the lid closed may be put in a plastic bag and set next to your garbage bin on collection day. Each bulky item is a charge of $30.',NULL),
+• Items must fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Break pallets made from untreated wood into pieces that are:
+• 4 inches or less in diameter
+• 4 feet or less in length
+• Remove any nails or metallic items.',NULL,NULL,NULL,NULL,NULL,'Items that do not fit in your bin with the lid closed may be put in a plastic bag and set next to your garbage bin on collection day. Each bulky item is a charge of $30.',NULL),
 (13,7,1,'Reusable Lumber',NULL,NULL,NULL,'Painted or treated wood can go in the garbage:
-•All pieces must be less than 4-inches in diameter and under 4-feet long.
-•Avoid extra charges – Break lumber and boards down so they fit in your bin with the lid closed.',NULL,'Donate or resell reusable lumber through building supply businesses that specialize in salvage or reusable materials.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Unpainted and untreated wood can go in the food and yard waste:
-•Pieces should be less than 4-inches in diameter and under 4-feet long to avoid extra fees.
-•Remove nails and all other non-wood materials.
-•Avoid extra charges – Break lumber and boards down so they fit in your bin with the lid closed.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• All pieces must be less than 4-inches in diameter and under 4-feet long.
+• Avoid extra charges – Break lumber and boards down so they fit in your bin with the lid closed.',NULL,'Donate or resell reusable lumber through building supply businesses that specialize in salvage or reusable materials.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Unpainted and untreated wood can go in the food and yard waste:
+• Pieces should be less than 4-inches in diameter and under 4-feet long to avoid extra fees.
+• Remove nails and all other non-wood materials.
+• Avoid extra charges – Break lumber and boards down so they fit in your bin with the lid closed.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (13,8,1,'Wood Scraps, Shavings, or Sawdust',NULL,NULL,NULL,'Painted or treated wood shavings, scraps, and sawdust go in the garbage. Put sawdust and shavings in a bag and tie off.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean, untreated wood shavings, scraps, and sawdust go in the food and yard waste. Put sawdust or shavings in a closed paper bag or box to contain it.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,1,1,'Christmas Trees',NULL,NULL,NULL,NULL,NULL,'From December 26 to January 31, bring Christmas trees to city transfer stations for free. Starting February 1, regular fees apply.
-•Trees should not exceed 8-feet in length and must be free of decoration.
-•Trunks should not exceed 4-inches in diameter.
-•The stations will accept up to 3 trees per vehicle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'From December 26 to January 31, holiday trees, wreaths, and greens can be composted for free. Place on the curb next to your food and yard waste cart on your regular collection day.
-•Flocked and plastic trees or wreaths will be charged as extra garbage.
-•Remove all decorations and lights, tinsel, metal clips, ornaments and bows.
-•Trees must be cut into lengths to 4-feet or shorter.
-•For bundling branches, use sisal string or twine (not plastic).
+• Trees should not exceed 8-feet in length and must be free of decoration.
+• Trunks should not exceed 4-inches in diameter.
+• The stations will accept up to 3 trees per vehicle',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'From December 26 to January 31, holiday trees, wreaths, and greens can be composted for free. Place on the curb next to your food and yard waste cart on your regular collection day.
+• Flocked and plastic trees or wreaths will be charged as extra garbage.
+• Remove all decorations and lights, tinsel, metal clips, ornaments and bows.
+• Trees must be cut into lengths to 4-feet or shorter.
+• For bundling branches, use sisal string or twine (not plastic).
 
 At apartments – Two trees may be placed next to each food and yard waste cart at no extra charge each collection day. Each additional tree will be picked up as extra yard waste (fees apply).',NULL),
 (14,2,1,'Contaminated Dirt or Soil',NULL,NULL,'Bring dirt contaminated with non-hazardous materials like plastic, wood, or metal to city transfer stations. Charge is $30 per item (limit 2 per load) or $8 per item plus $145 per ton for other materials if part of a larger load.','Dirt contaminated with non-hazardous materials like plastic, wood, or metal can go in the garbage if it doesn’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'For dirt that contains hazardous materials, call the household hazards line at (206) 296-4692. Hours are 9 a.m. – 4:30 p.m., Monday through Friday.',NULL,NULL),
@@ -1575,8 +1575,8 @@ At apartments – Two trees may be placed next to each food and yard waste cart 
 (14,4,1,'Grass Clippings or Sod',NULL,NULL,NULL,NULL,NULL,'Bring large amounts of grass clippings and sod to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Grass clippings and small amounts of sod can go in the food and yard waste. Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,5,1,'House Plants',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'House plants go in the food and yard waste. Remove plants from potting soil and planters.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,6,1,'Leaves or Non-Woody Yard Waste',NULL,NULL,NULL,NULL,NULL,'Bring leaves or non-woody yard waste to city transfer stations. Fees apply.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Leaves and non-woody yard waste go in the food and yard waste.
-•Items must fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+• Items must fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,7,1,'Pet Waste or Litter',NULL,NULL,NULL,'Bag dog waste, cat waste, and used kitty litter. Tie off the bags and put in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Never flush kitty litter down the toilet!
 
 Pet waste can’t be composted in the food and yard waste or in backyard composting bins.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
@@ -1584,13 +1584,13 @@ Pet waste can’t be composted in the food and yard waste or in backyard compost
 (14,9,1,'Plant Pots',NULL,NULL,NULL,'Dirty or ceramic plant pots go in the garbage.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Ask about reuse and recycling options where you buy plant pots. Some garden stores and nurseries will take back plastic pots and reuse them.',NULL,'Empty and rinsed plastic plant pots go in the recycling.',NULL,NULL,NULL,NULL,NULL,NULL),
 (14,10,1,'Rocks or Gravel',NULL,NULL,'Bring rocks and gravel to city transfer stations. They are charged as garbage. Charge for garbage is $145 per ton, minimum charge of $30 covers up to 420 lbs.','Rocks and gravel can go in your garbage if they don’t exceed the weight limits printed on your bin, and fit in your bin with the lid completely closed. No individual rock should be larger than 2 feet by 2 feet.',NULL,NULL,NULL,NULL,'Gravel in good condition may be accepted by local salvaged building material businesses.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,11,1,'Trees or Brush',NULL,NULL,'Bring trees and brush to city transfer stations. Charge is $13 per load (limit 4 per load).
-•All trees, brush, or branches must be 8 feet or less in length.
-•All pieces must be 8 inches or less in diameter.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Trees, brush, and branches go in the food and yard waste:
-•Cut down to 4 inches or less in diameter and 4 feet or less in length.
-•Avoid extra charges – Items should fit in your bin with the lid closed.
-•Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,'Bundle trees and brush and set next to the bin. Charge is $145 per ton as part of a load
-•Tie bundles with natural twine. No plastic allowed.
-•Bundles must be 2 feet or less in diameter.',NULL),
+• All trees, brush, or branches must be 8 feet or less in length.
+• All pieces must be 8 inches or less in diameter.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Trees, brush, and branches go in the food and yard waste:
+• Cut down to 4 inches or less in diameter and 4 feet or less in length.
+• Avoid extra charges – Items should fit in your bin with the lid closed.
+• Don’t exceed the weight limits printed on your bin.',NULL,NULL,NULL,NULL,NULL,'Bundle trees and brush and set next to the bin. Charge is $145 per ton as part of a load
+• Tie bundles with natural twine. No plastic allowed.
+• Bundles must be 2 feet or less in diameter.',NULL),
 (14,12,1,'Wood Scraps, Shavings, or Sawdust',NULL,NULL,NULL,'Painted or treated wood shavings, scraps, and sawdust go in the garbage. Put sawdust and shavings in a bag and tie off.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'Clean, untreated wood shavings, scraps, and sawdust go in the food and yard waste. Put sawdust or shavings in a closed paper bag or box to contain it.',NULL,NULL,NULL,NULL,NULL,NULL,NULL),
 (14,13,1,'Noxious Weeds',NULL,NULL,NULL,'Noxious weeds should be bagged, tied off, and placed in the garbage. For more information about noxious weeds, visit Noxious Weeds in King County, Washington.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 

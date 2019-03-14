@@ -1,5 +1,16 @@
+// ==============================================================================
+// DEPENDENCIES
+// Series of npm packages that we will use to give our server useful functionality
+// ==============================================================================
+
 // create server to handle request from client to backend and delvier response
 var express = require('express');
+// ==============================================================================
+// EXPRESS CONFIGURATION
+// This sets up the basic properties for our express server
+// ==============================================================================
+
+
 // internal module (no need to isntall) when we hit a route it allows us to send a response of the file
 var path = require('path');
 // express executed

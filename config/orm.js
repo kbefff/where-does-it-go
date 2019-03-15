@@ -1,4 +1,6 @@
-import { createConnection } from "net";
+import {
+    createConnection
+} from "net";
 
 // Helper function for SQL syntax.
 // Let's say we want to pass 3 values into the mySQL query.
@@ -42,24 +44,51 @@ function objToSql(ob) {
 
 // create ORM
 var orm = {
-    all: function(tableInput, cb){
+    all: function (tableInput, cb) {
         var queryString = "SELECT * FROM " + tableInput + ";";
-        connection.query(queryString, function(err, result){
+        connection.query(queryString, function (err, result) {
             if (err) throw err;
-            cb(restult);
+            cb(result);
         });
     },
-// INSERT INTO category(categoryId,category) VALUES (1,'Household Items'), 
 
-
-    create: function(table, cols, vals, cb){
+    create: function (table, cols, vals, cb) {
         var queryString = "INSERT INTO " + table;
         queryString += " (";
         queryString += cols.toString();
-        queryString += ") "; 
+        queryString += ") ";
         queryString += "VALUES (";
-        queryString += 
+        queryString += printQuestionMarks(vals.length);
+        queryString += ") ";
+        console.log(queryString);
+        connection.query(queryString, vals, function (err, result) {
+            if (err) throw err;
+            cb(result);
+        });
+    },
+
+    update: function (table, objColVals, condition, cb) {
+        var queryString = "UPDATE " + table;
+        queryString += " SET";
+        // convert obj into array to insert into SQL since SQL does not understand objects
+        queryString += objToSql(objColVals);
+        queryString += " WHERE ";
+        queryString += condition;
+        connection.query(queryString, function (err, result) {
+            if (err) throw err;
+            cb(result);
+        });
+    },
+    delete: function (table, condition, cb) {
+        var queryString = "DELETE FROM " + table;
+        queryString += " WHERE ";
+        queryString += condition;
+        connection.query(queryString, function (err, result) {
+            if (err) throw err;
+            cb(result);
+        });
+
     }
-    update:
-    delete:
 }
+
+module.exports = orm;

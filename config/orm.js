@@ -41,7 +41,6 @@ function objToSql(ob) {
     return arr.toString();
 }
 
-
 // create ORM
 var orm = {
     all: function (tableInput, cb) {
@@ -87,7 +86,6 @@ var orm = {
             if (err) throw err;
             cb(result);
         });
-
     }
 }
 
